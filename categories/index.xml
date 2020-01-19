@@ -5,12 +5,28 @@
     <link>/categories/</link>
       <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Jan 2020 19:18:13 +0900</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Categories</title>
       <link>/categories/</link>
     </image>
+    
+    <item>
+      <title>competitive-programming</title>
+      <link>/categories/competitive-programming/</link>
+      <pubDate>Sun, 19 Jan 2020 19:18:13 +0900</pubDate>
+      <guid>/categories/competitive-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>settings</title>
+      <link>/categories/settings/</link>
+      <pubDate>Sun, 19 Jan 2020 07:43:11 +0900</pubDate>
+      <guid>/categories/settings/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

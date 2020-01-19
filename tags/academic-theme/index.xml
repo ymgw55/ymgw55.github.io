@@ -38,6 +38,8 @@
 &lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/post/writing-technical-content/&#34;&gt;&lt;strong&gt;公式のDemoサイト&lt;/strong&gt;&lt;/a&gt; に詳しく書いてある。&lt;/p&gt;
 &lt;h3 id=&#34;contact-の設定&#34;&gt;Contact の設定&lt;/h3&gt;
 &lt;p&gt;&lt;code&gt;config/_default/params.toml&lt;/code&gt; で設定。電話番号や住所の公開・非公開などが設定できる。&lt;/p&gt;
+&lt;h3 id=&#34;変更内容の確認&#34;&gt;変更内容の確認&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;hugo server&lt;/code&gt; でサーバーを立ち上げ、&lt;code&gt;localhost:1313&lt;/code&gt;で確認できる。&lt;/p&gt;
 &lt;h3 id=&#34;まとめ&#34;&gt;まとめ&lt;/h3&gt;
 &lt;p&gt;幾らか項目を上げたが、まだわかっていないことも多いので積極的にページを触っていきたい。&lt;/p&gt;
 </description>
