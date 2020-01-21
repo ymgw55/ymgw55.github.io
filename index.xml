@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>ymgw55.github.io</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Jan 2020 19:18:13 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jan 2020 09:48:32 +0900</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>ymgw55.github.io</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Projects</title>
-      <link>/project/</link>
-      <pubDate>Sun, 19 Jan 2020 19:18:13 +0900</pubDate>
-      <guid>/project/</guid>
+      <title>Posts</title>
+      <link>/post/</link>
+      <pubDate>Tue, 21 Jan 2020 09:48:32 +0900</pubDate>
+      <guid>/post/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>/post/</link>
-      <pubDate>Sun, 19 Jan 2020 07:43:11 +0900</pubDate>
-      <guid>/post/</guid>
+      <title>Projects</title>
+      <link>/project/</link>
+      <pubDate>Sun, 19 Jan 2020 19:18:13 +0900</pubDate>
+      <guid>/project/</guid>
       <description></description>
     </item>
     
