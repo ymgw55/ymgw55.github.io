@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jan 2020 09:48:32 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 26 Jan 2020 20:12:47 +0900</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Tue, 21 Jan 2020 09:48:32 +0900</pubDate>
+      <pubDate>Sun, 26 Jan 2020 20:12:47 +0900</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I&#39;m an undergraduate of department of mathematics at Kyoto University. My research interests include machine learning and mathematics.&lt;/p&gt;
 &lt;p&gt;現在私は京都大学理学部数学科の学生であり、大学院は同大学の情報学科システム科学専攻に進学予定です。専攻分野は機械学習とそれに伴う数学です。&lt;/p&gt;

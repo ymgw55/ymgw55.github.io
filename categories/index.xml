@@ -5,7 +5,7 @@
     <link>/categories/</link>
       <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jan 2020 09:48:32 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 26 Jan 2020 20:12:47 +0900</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Categories</title>
@@ -15,7 +15,7 @@
     <item>
       <title>book review</title>
       <link>/categories/book-review/</link>
-      <pubDate>Tue, 21 Jan 2020 09:48:32 +0900</pubDate>
+      <pubDate>Sun, 26 Jan 2020 20:12:47 +0900</pubDate>
       <guid>/categories/book-review/</guid>
       <description></description>
     </item>

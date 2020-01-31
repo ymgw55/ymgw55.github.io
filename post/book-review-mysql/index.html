@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Undergraduate">
+  <meta name="description" content="MySOLの復習">
 
   
-  <link rel="alternate" hreflang="en-us" href="/tags/academic-theme/">
+  <link rel="alternate" hreflang="en-us" href="/post/book-review-mysql/">
 
   
 
@@ -90,14 +90,12 @@
   
 
   
-  <link rel="alternate" href="/tags/academic-theme/index.xml" type="application/rss+xml" title="ymgw55.github.io">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/tags/academic-theme/">
+  <link rel="canonical" href="/post/book-review-mysql/">
 
   
   
@@ -110,18 +108,76 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="ymgw55.github.io">
-  <meta property="og:url" content="/tags/academic-theme/">
-  <meta property="og:title" content="Academic-theme | ymgw55.github.io">
-  <meta property="og:description" content="Undergraduate"><meta property="og:image" content="/img/icon-192.png">
+  <meta property="og:url" content="/post/book-review-mysql/">
+  <meta property="og:title" content="[ Book Review ] 基礎からのMySQL 第3版 | ymgw55.github.io">
+  <meta property="og:description" content="MySOLの復習"><meta property="og:image" content="/img/icon-192.png">
   <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-01-19T07:43:11&#43;09:00">
+    
+      <meta property="article:published_time" content="2020-01-26T20:12:47&#43;09:00">
+    
+    <meta property="article:modified_time" content="2020-01-26T20:12:47&#43;09:00">
   
 
   
 
 
+    
 
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/post/book-review-mysql/"
+  },
+  "headline": "[ Book Review ] 基礎からのMySQL 第3版",
+  
+  "datePublished": "2020-01-26T20:12:47+09:00",
+  "dateModified": "2020-01-26T20:12:47+09:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Hiroaki Yamagiwa"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "ymgw55.github.io",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/img/icon-512.png"
+    }
+  },
+  "description": "MySOLの復習"
+}
+</script>
+
+  
 
   
 
@@ -129,10 +185,13 @@
   
 
 
+  
 
 
 
-  <title>Academic-theme | ymgw55.github.io</title>
+
+
+  <title>[ Book Review ] 基礎からのMySQL 第3版 | ymgw55.github.io</title>
 
 </head>
 
@@ -294,7 +353,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/post/"><span>Posts</span></a>
+          <a class="nav-link  active" href="/post/"><span>Posts</span></a>
         </li>
 
         
@@ -401,54 +460,270 @@
 </nav>
 
 
+  <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>[ Book Review ] 基礎からのMySQL 第3版</h1>
+
+  
+
+  
+    
+
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span><a href="/authors/admin/">Hiroaki Yamagiwa</a></span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jan 26, 2020
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/categories/book-review/">book review</a></span>
+  
+
+  
+    
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p>Docker と CTF の勉強をするためにMySQLを復習した。
+大学院やインターン先でこれからデータを扱っていくこともあり、ちょうど良い機会になった。</p>
+<p>今回読んだのは「基礎からのMySQL 第3版」
+(
+<a href="https://www.amazon.co.jp/%E5%9F%BA%E7%A4%8E%E3%81%8B%E3%82%89%E3%81%AEMySQL-%E7%AC%AC3%E7%89%88-%E5%9F%BA%E7%A4%8E%E3%81%8B%E3%82%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E8%A5%BF%E6%B2%A2-%E5%A4%A2%E8%B7%AF/dp/4797393114">Amazon</a>
+, <a href="https://www.sbcr.jp/product/4797393118/">SBCreative</a>
+)
+という本。( 本書では MANP を用いた Windows 環境を想定 )</p>
+<p>Part5 まであり、Part3 までが MySQL の文法、Part4 が簡単な PHP の説明、Part5 はおまけで MySQL と PHP で簡易掲示板を作るという内容だった。</p>
+<p>MySQL の文法を主に復習したかったので Part3 までで自分的には丁寧な説明でかなり満足できたが、ちゃんと Docker ( 現状では機械学習の環境としての使用に留まる ) を学習するなら PHP の簡単な動作くらいは覚えていても損はないかなということで最後まで読むことにした。</p>
+<p>学部が情報系ではないこともあり CS の知識にまだ不安が残るので CTF の勉強もしていて、SQLの文法と PHP の簡単な操作を抑えておけばそちらの方面でもスムーズに web や SQL の問題の学習にとりかかれると思う。</p>
+<p>ただこの本は MySQL の文法がメインで、データベーススペシャリストで出題されるような DB の構造の部分まではカバーできていないので、必要があればもう一冊くらい DB 関連の本を読んでも良いかなという感じ。</p>
+<p>本業は機械学習で大学院ではそちらの勉強ばかりになるので春休み中に 広く CS を勉強する良い機会になった。</p>
+
+    </div>
+
+    
+
+
+    
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/sql/">SQL</a>
+  
+  <a class="badge badge-light" href="/tags/mysql/">MySQL</a>
+  
+  <a class="badge badge-light" href="/tags/db/">DB</a>
+  
+</div>
+
+
+
+    
+      
+
+
+
+
+
+
+
+
+  
+  
+    
+  
   
 
 
 
 
 
-
-
-
-
-
-
-
-  
 
   
   
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1>Academic-theme</h1>
-
   
-
-  
-</div>
-
-
-
-<div class="universal-wrapper">
-  
-
-  
-  
-  <div>
-    <h2><a href="/post/how-to-use-academic/">[ 設定 ] github pagesでポートフォリオ用のサイトを作成したので使い方をまとめておく</a></h2>
-    <div class="article-style">
+  <div class="media author-card">
+    
       
-      備忘録
-      
+      <img class="portrait mr-3" src="/authors/admin/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_250x250_fill_q90_lanczos_center.jpg" alt="Avatar">
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/">Hiroaki Yamagiwa</a></h5>
+      <h6 class="card-subtitle">Undergraduate</h6>
+      <p class="card-text">My research interests include machine learning and mathematics.</p>
+      <ul class="network-icon" aria-hidden="true">
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a href="/#contact" >
+              <i class="fas fa-envelope"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a href="https://twitter.com/ymgw55" target="_blank" rel="noopener">
+              <i class="fab fa-twitter"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a href="https://github.com/ymgw55" target="_blank" rel="noopener">
+              <i class="fab fa-github"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a href="https://www.linkedin.com/in/hiroaki-yamagiwa-45a773179/" target="_blank" rel="noopener">
+              <i class="fab fa-linkedin"></i>
+            </a>
+          </li>
+        
+      </ul>
     </div>
   </div>
-  
 
-  
 
-</div>
+
+      
+      
+    
+
+    
+
+    
+
+
+  </div>
+</article>
 
       
 
