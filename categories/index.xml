@@ -5,28 +5,12 @@
     <link>/categories/</link>
       <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 02:49:02 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 26 Jan 2020 20:12:47 +0900</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Categories</title>
       <link>/categories/</link>
     </image>
-    
-    <item>
-      <title>image recognition</title>
-      <link>/categories/image-recognition/</link>
-      <pubDate>Sat, 01 Feb 2020 02:49:02 +0900</pubDate>
-      <guid>/categories/image-recognition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>machine learning</title>
-      <link>/categories/machine-learning/</link>
-      <pubDate>Sat, 01 Feb 2020 02:49:02 +0900</pubDate>
-      <guid>/categories/machine-learning/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>book review</title>

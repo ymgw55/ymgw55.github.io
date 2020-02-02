@@ -5,44 +5,12 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 02:49:02 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 26 Jan 2020 20:12:47 +0900</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
-    
-    <item>
-      <title>OpenCV</title>
-      <link>/tags/opencv/</link>
-      <pubDate>Sat, 01 Feb 2020 02:49:02 +0900</pubDate>
-      <guid>/tags/opencv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>/tags/python/</link>
-      <pubDate>Sat, 01 Feb 2020 02:49:02 +0900</pubDate>
-      <guid>/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>機械学習</title>
-      <link>/tags/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/</link>
-      <pubDate>Sat, 01 Feb 2020 02:49:02 +0900</pubDate>
-      <guid>/tags/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>画像認識</title>
-      <link>/tags/%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98/</link>
-      <pubDate>Sat, 01 Feb 2020 02:49:02 +0900</pubDate>
-      <guid>/tags/%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>DB</title>
