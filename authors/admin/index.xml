@@ -5,7 +5,7 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>ymgw55.github.io</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 26 Jan 2020 20:12:47 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 02:49:02 +0900</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>ymgw55.github.io</title>
@@ -13,21 +13,52 @@
     </image>
     
     <item>
+      <title>[ 画像認識 ] OpenCVを用いた画像の前処理</title>
+      <link>/post/image-preprocessing/</link>
+      <pubDate>Sat, 01 Feb 2020 02:49:02 +0900</pubDate>
+      <guid>/post/image-preprocessing/</guid>
+      <description>&lt;p&gt;OpenCVを用いて画像の前処理をする機会があったので、いくつかメモとして残しておく。&lt;/p&gt;
+&lt;h2 id=&#34;サイズ変更&#34;&gt;サイズ変更&lt;/h2&gt;
+&lt;h2 id=&#34;ノイズ除去&#34;&gt;ノイズ除去&lt;/h2&gt;
+&lt;h2 id=&#34;シャープネス&#34;&gt;シャープネス&lt;/h2&gt;
+&lt;h2 id=&#34;ぼかし&#34;&gt;ぼかし&lt;/h2&gt;
+&lt;h2 id=&#34;回転&#34;&gt;回転&lt;/h2&gt;
+&lt;h2 id=&#34;しきい値処理&#34;&gt;しきい値処理&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://labs.eecs.tottori-u.ac.jp/sd/Member/oyamada/OpenCV/html/py_tutorials/py_imgproc/py_thresholding/py_thresholding.html#id5&#34;&gt;&lt;strong&gt;OpenCV - 画像のしきい値処理&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;単純なしきい値処理&#34;&gt;単純なしきい値処理&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;適応的しきい値処理&#34;&gt;適応的しきい値処理&lt;/h4&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;適応的しきい値の仕組みについては&lt;a href=&#34;/post/image-preprocessing/adaptive-thresholding&#34;&gt;こちら&lt;/a&gt;でまとめる。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;大津の二値化&#34;&gt;大津の二値化&lt;/h4&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;大津の二値化の仕組みについては&lt;a href=&#34;/post/image-preprocessing/otsu-thresholding&#34;&gt;こちら&lt;/a&gt;でまとめる。&lt;/p&gt;
+&lt;h2 id=&#34;pilへの変換&#34;&gt;PILへの変換&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
       <title>[ Book Review ] 基礎からのMySQL 第3版</title>
       <link>/post/book-review-mysql/</link>
       <pubDate>Sun, 26 Jan 2020 20:12:47 +0900</pubDate>
       <guid>/post/book-review-mysql/</guid>
-      <description>&lt;p&gt;Docker と CTF の勉強をするためにMySQLを復習した。
-大学院やインターン先でこれからデータを扱っていくこともあり、ちょうど良い機会になった。&lt;/p&gt;
+      <description>&lt;p&gt;大学院やインターン先でこれからデータを扱っていくこともあり、同時に Docker と CTF の勉強をするためにMySQLを復習した。&lt;/p&gt;
 &lt;p&gt;今回読んだのは「基礎からのMySQL 第3版」
 (
 &lt;a href=&#34;https://www.amazon.co.jp/%E5%9F%BA%E7%A4%8E%E3%81%8B%E3%82%89%E3%81%AEMySQL-%E7%AC%AC3%E7%89%88-%E5%9F%BA%E7%A4%8E%E3%81%8B%E3%82%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E8%A5%BF%E6%B2%A2-%E5%A4%A2%E8%B7%AF/dp/4797393114&#34;&gt;Amazon&lt;/a&gt;
 , &lt;a href=&#34;https://www.sbcr.jp/product/4797393118/&#34;&gt;SBCreative&lt;/a&gt;
 )
-という本。( 本書では MANP を用いた Windows 環境を想定 )&lt;/p&gt;
+という本。( 本書では MAMP を用いた Windows 環境を想定 )&lt;/p&gt;
 &lt;p&gt;Part5 まであり、Part3 までが MySQL の文法、Part4 が簡単な PHP の説明、Part5 はおまけで MySQL と PHP で簡易掲示板を作るという内容だった。&lt;/p&gt;
 &lt;p&gt;MySQL の文法を主に復習したかったので Part3 までで自分的には丁寧な説明でかなり満足できたが、ちゃんと Docker ( 現状では機械学習の環境としての使用に留まる ) を学習するなら PHP の簡単な動作くらいは覚えていても損はないかなということで最後まで読むことにした。&lt;/p&gt;
-&lt;p&gt;学部が情報系ではないこともあり CS の知識にまだ不安が残るので CTF の勉強もしていて、SQLの文法と PHP の簡単な操作を抑えておけばそちらの方面でもスムーズに web や SQL の問題の学習にとりかかれると思う。&lt;/p&gt;
+&lt;p&gt;学部が情報系ではないこともあり CS の知識にまだ不安が残ることもあって CTF の勉強もしているので、SQLの文法と PHP の簡単な操作を抑えておけばそちらの方面でもスムーズに web や SQL の問題の学習にとりかかれると思う。&lt;/p&gt;
 &lt;p&gt;ただこの本は MySQL の文法がメインで、データベーススペシャリストで出題されるような DB の構造の部分まではカバーできていないので、必要があればもう一冊くらい DB 関連の本を読んでも良いかなという感じ。&lt;/p&gt;
 &lt;p&gt;本業は機械学習で大学院ではそちらの勉強ばかりになるので春休み中に 広く CS を勉強する良い機会になった。&lt;/p&gt;
 </description>

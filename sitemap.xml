@@ -4,7 +4,67 @@
   
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2020-01-26T20:12:47+09:00</lastmod>
+    <lastmod>2020-02-01T02:49:02+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/image-preprocessing/</loc>
+    <lastmod>2020-02-01T02:49:02+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-02-01T02:49:02+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-02-01T02:49:02+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/image-recognition/</loc>
+    <lastmod>2020-02-01T02:49:02+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/machine-learning/</loc>
+    <lastmod>2020-02-01T02:49:02+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/opencv/</loc>
+    <lastmod>2020-02-01T02:49:02+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-02-01T02:49:02+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/python/</loc>
+    <lastmod>2020-02-01T02:49:02+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-02-01T02:49:02+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-02-01T02:49:02+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/</loc>
+    <lastmod>2020-02-01T02:49:02+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98/</loc>
+    <lastmod>2020-02-01T02:49:02+09:00</lastmod>
   </url>
   
   <url>
@@ -13,17 +73,7 @@
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-01-26T20:12:47+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/book-review/</loc>
-    <lastmod>2020-01-26T20:12:47+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
     <lastmod>2020-01-26T20:12:47+09:00</lastmod>
   </url>
   
@@ -38,22 +88,7 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2020-01-26T20:12:47+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/sql/</loc>
-    <lastmod>2020-01-26T20:12:47+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-01-26T20:12:47+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2020-01-26T20:12:47+09:00</lastmod>
   </url>
   

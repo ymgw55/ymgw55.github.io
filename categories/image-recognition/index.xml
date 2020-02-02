@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>image recognition | ymgw55.github.io</title>
+    <link>/categories/image-recognition/</link>
+      <atom:link href="/categories/image-recognition/index.xml" rel="self" type="application/rss+xml" />
+    <description>image recognition</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 02:49:02 +0900</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>image recognition</title>
+      <link>/categories/image-recognition/</link>
+    </image>
+    
+    <item>
+      <title>[ 画像認識 ] OpenCVを用いた画像の前処理</title>
+      <link>/post/image-preprocessing/</link>
+      <pubDate>Sat, 01 Feb 2020 02:49:02 +0900</pubDate>
+      <guid>/post/image-preprocessing/</guid>
+      <description>&lt;p&gt;OpenCVを用いて画像の前処理をする機会があったので、いくつかメモとして残しておく。&lt;/p&gt;
+&lt;h2 id=&#34;サイズ変更&#34;&gt;サイズ変更&lt;/h2&gt;
+&lt;h2 id=&#34;ノイズ除去&#34;&gt;ノイズ除去&lt;/h2&gt;
+&lt;h2 id=&#34;シャープネス&#34;&gt;シャープネス&lt;/h2&gt;
+&lt;h2 id=&#34;ぼかし&#34;&gt;ぼかし&lt;/h2&gt;
+&lt;h2 id=&#34;回転&#34;&gt;回転&lt;/h2&gt;
+&lt;h2 id=&#34;しきい値処理&#34;&gt;しきい値処理&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://labs.eecs.tottori-u.ac.jp/sd/Member/oyamada/OpenCV/html/py_tutorials/py_imgproc/py_thresholding/py_thresholding.html#id5&#34;&gt;&lt;strong&gt;OpenCV - 画像のしきい値処理&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;単純なしきい値処理&#34;&gt;単純なしきい値処理&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;適応的しきい値処理&#34;&gt;適応的しきい値処理&lt;/h4&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;適応的しきい値の仕組みについては&lt;a href=&#34;/post/image-preprocessing/adaptive-thresholding&#34;&gt;こちら&lt;/a&gt;でまとめる。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;大津の二値化&#34;&gt;大津の二値化&lt;/h4&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;大津の二値化の仕組みについては&lt;a href=&#34;/post/image-preprocessing/otsu-thresholding&#34;&gt;こちら&lt;/a&gt;でまとめる。&lt;/p&gt;
+&lt;h2 id=&#34;pilへの変換&#34;&gt;PILへの変換&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
