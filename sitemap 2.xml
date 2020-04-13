@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2020-01-26T20:12:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/book-review-mysql/</loc>
+    <lastmod>2020-01-26T20:12:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-01-26T20:12:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/book-review/</loc>
+    <lastmod>2020-01-26T20:12:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-01-26T20:12:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/db/</loc>
+    <lastmod>2020-01-26T20:12:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mysql/</loc>
+    <lastmod>2020-01-26T20:12:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-01-26T20:12:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/sql/</loc>
+    <lastmod>2020-01-26T20:12:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-01-26T20:12:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-01-26T20:12:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/book-review-github/</loc>
+    <lastmod>2020-01-21T09:48:32+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/git/</loc>
+    <lastmod>2020-01-21T09:48:32+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/github/</loc>
+    <lastmod>2020-01-21T09:48:32+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/atcoder/</loc>
+    <lastmod>2020-01-19T19:18:13+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/codeforces/</loc>
+    <lastmod>2020-01-19T19:18:13+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/competitive-programming/</loc>
+    <lastmod>2020-01-19T19:18:13+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/library-for-competitive-programming/</loc>
+    <lastmod>2020-01-19T19:18:13+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-01-19T19:18:13+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/how-to-use-academic/</loc>
+    <lastmod>2020-01-19T07:43:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/academic-theme/</loc>
+    <lastmod>2020-01-19T07:43:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/settings/</loc>
+    <lastmod>2020-01-19T07:43:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+  </url>
+  
+</urlset>
