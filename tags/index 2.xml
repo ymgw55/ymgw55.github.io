@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | ymgw55.github.io</title>
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 26 Jan 2020 20:12:47 +0900</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>/tags/</link>
+    </image>
+    
+    <item>
+      <title>DB</title>
+      <link>/tags/db/</link>
+      <pubDate>Sun, 26 Jan 2020 20:12:47 +0900</pubDate>
+      <guid>/tags/db/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MySQL</title>
+      <link>/tags/mysql/</link>
+      <pubDate>Sun, 26 Jan 2020 20:12:47 +0900</pubDate>
+      <guid>/tags/mysql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>/tags/sql/</link>
+      <pubDate>Sun, 26 Jan 2020 20:12:47 +0900</pubDate>
+      <guid>/tags/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>/tags/git/</link>
+      <pubDate>Tue, 21 Jan 2020 09:48:32 +0900</pubDate>
+      <guid>/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GitHub</title>
+      <link>/tags/github/</link>
+      <pubDate>Tue, 21 Jan 2020 09:48:32 +0900</pubDate>
+      <guid>/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AtCoder</title>
+      <link>/tags/atcoder/</link>
+      <pubDate>Sun, 19 Jan 2020 19:18:13 +0900</pubDate>
+      <guid>/tags/atcoder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Codeforces</title>
+      <link>/tags/codeforces/</link>
+      <pubDate>Sun, 19 Jan 2020 19:18:13 +0900</pubDate>
+      <guid>/tags/codeforces/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic-theme</title>
+      <link>/tags/academic-theme/</link>
+      <pubDate>Sun, 19 Jan 2020 07:43:11 +0900</pubDate>
+      <guid>/tags/academic-theme/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

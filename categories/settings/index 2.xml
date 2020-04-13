@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>settings | ymgw55.github.io</title>
+    <link>/categories/settings/</link>
+      <atom:link href="/categories/settings/index.xml" rel="self" type="application/rss+xml" />
+    <description>settings</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Jan 2020 07:43:11 +0900</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>settings</title>
+      <link>/categories/settings/</link>
+    </image>
+    
+    <item>
+      <title>[ 設定 ] github pagesでポートフォリオ用のサイトを作成したので使い方をまとめておく</title>
+      <link>/post/how-to-use-academic/</link>
+      <pubDate>Sun, 19 Jan 2020 07:43:11 +0900</pubDate>
+      <guid>/post/how-to-use-academic/</guid>
+      <description>&lt;p&gt;githubでは静的ページを &lt;code&gt;http://[username].github.io/&lt;/code&gt; で作成することができる。
+設定等については &lt;a href=&#34;https://pages.github.com/&#34;&gt;&lt;strong&gt;GitHub Pages&lt;/strong&gt;&lt;/a&gt; 参照。&lt;/p&gt;
+&lt;p&gt;静的サイトジェネレーター &lt;a href=&#34;https://gohugo.io/&#34;&gt;&lt;strong&gt;Hugo&lt;/strong&gt;&lt;/a&gt; でサイトを作って放置していたので今回は初めての post として備忘録を兼ねて自分用にいくつかメモをしておく。&lt;/p&gt;
+&lt;p&gt;使っているのは &lt;a href=&#34;https://sourcethemes.com/academic/&#34;&gt;&lt;strong&gt;Academic&lt;/strong&gt;&lt;/a&gt; というテーマで、詳しい使い方は &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34;&gt;&lt;strong&gt;公式Document&lt;/strong&gt;&lt;/a&gt; に全て英語で書いてあるが、よく使いそうな機能をこのページにまとめる。&lt;/p&gt;
+&lt;p&gt;Academic ではマークダウンでページを生成することができて、細かい設定に拘らなければ HTML や CSS に触れる必要はなく、web にそこまで詳しくない自分でもそれらしい形の物は作ることができた。&lt;/p&gt;
+&lt;h3 id=&#34;メニューバーの設定&#34;&gt;メニューバーの設定&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;config/_default/menus.toml&lt;/code&gt; で設定。&lt;/p&gt;
+&lt;p&gt;メニューバーに表示させる項目(&lt;code&gt;Home&lt;/code&gt;, &lt;code&gt;Posts&lt;/code&gt; など) の表示・非表示設定、順番、リンク先などの設定できる。&lt;/p&gt;
+&lt;h3 id=&#34;自己紹介の設定&#34;&gt;自己紹介の設定&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;content/authors/admin/_index.md&lt;/code&gt;で設定。&lt;/p&gt;
+&lt;h3 id=&#34;home-ページの設定&#34;&gt;Home ページの設定&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;content/home/*.md&lt;/code&gt; で設定。ここで表示・非表示などの設定ができる。例えば &lt;code&gt;posts.md&lt;/code&gt; であれば、&lt;code&gt;content/post/&lt;/code&gt; と対応していて、このフォルダの中のディレクトリの内容をいくつ表示するか、などを決める。&lt;/p&gt;
+&lt;h3 id=&#34;usernamegithubio-ページの設定&#34;&gt;[username].github.io/* ページの設定&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;[username].github.io/post&lt;/code&gt; の場合、&lt;code&gt;content/post/_index.md&lt;/code&gt; でページのタイトル・サブタイトル等を設定できる。&lt;/p&gt;
+&lt;h3 id=&#34;新しいページの作成&#34;&gt;新しいページの作成&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-a-blog-post&#34;&gt;&lt;strong&gt;公式Documentのここ&lt;/strong&gt;&lt;/a&gt; に書いてある通り、例えば新しい投稿しようとしたときは、
+&lt;code&gt;hugo new --kind post post/my-article-name&lt;/code&gt; で新しくmy-article-nameフォルダが自動作成されて、そのフォルダ内のindex.mdに書けばよい。(手動でフォルダや設定ファイルを作成するとフォント等がデフォルトと少し異なり気持ち悪い？)&lt;/p&gt;
+&lt;h3 id=&#34;数式コードの書き方&#34;&gt;数式・コードの書き方&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/post/writing-technical-content/&#34;&gt;&lt;strong&gt;公式のDemoサイト&lt;/strong&gt;&lt;/a&gt; に詳しく書いてある。&lt;/p&gt;
+&lt;h3 id=&#34;contact-の設定&#34;&gt;Contact の設定&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;config/_default/params.toml&lt;/code&gt; で設定。電話番号や住所の公開・非公開などが設定できる。&lt;/p&gt;
+&lt;h3 id=&#34;変更内容の確認&#34;&gt;変更内容の確認&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;hugo server&lt;/code&gt; でサーバーを立ち上げ、&lt;code&gt;localhost:1313&lt;/code&gt;で確認できる。&lt;/p&gt;
+&lt;h3 id=&#34;まとめ&#34;&gt;まとめ&lt;/h3&gt;
+&lt;p&gt;幾らか項目を上げたが、まだわかっていないことも多いので積極的にページを触っていきたい。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

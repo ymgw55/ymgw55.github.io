@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | ymgw55.github.io</title>
+    <link>/categories/</link>
+      <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 26 Jan 2020 20:12:47 +0900</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Categories</title>
+      <link>/categories/</link>
+    </image>
+    
+    <item>
+      <title>book review</title>
+      <link>/categories/book-review/</link>
+      <pubDate>Sun, 26 Jan 2020 20:12:47 +0900</pubDate>
+      <guid>/categories/book-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>competitive-programming</title>
+      <link>/categories/competitive-programming/</link>
+      <pubDate>Sun, 19 Jan 2020 19:18:13 +0900</pubDate>
+      <guid>/categories/competitive-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>settings</title>
+      <link>/categories/settings/</link>
+      <pubDate>Sun, 19 Jan 2020 07:43:11 +0900</pubDate>
+      <guid>/categories/settings/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
