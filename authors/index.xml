@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 26 Jan 2020 20:12:47 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Jan 2020 19:18:13 +0900</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sun, 26 Jan 2020 20:12:47 +0900</pubDate>
+      <pubDate>Sun, 19 Jan 2020 19:18:13 +0900</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I&#39;m a first year master&#39;s student at Shimodaira Lab, Department of System Science, Informatics, Kyoto University. My resarch interests lie in Machine Learning and Natural Language Processing.&lt;/p&gt;
 &lt;h1 id=&#34;study&#34;&gt;Study&lt;/h1&gt;
