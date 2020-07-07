@@ -5,28 +5,12 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Jan 2020 19:18:13 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Jan 2020 07:43:11 +0900</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
-    
-    <item>
-      <title>AtCoder</title>
-      <link>/tags/atcoder/</link>
-      <pubDate>Sun, 19 Jan 2020 19:18:13 +0900</pubDate>
-      <guid>/tags/atcoder/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Codeforces</title>
-      <link>/tags/codeforces/</link>
-      <pubDate>Sun, 19 Jan 2020 19:18:13 +0900</pubDate>
-      <guid>/tags/codeforces/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Academic-theme</title>
