@@ -13,35 +13,61 @@
     </image>
     
     <item>
-      <title>[ 設定 ] github pagesでポートフォリオ用のサイトを作成したので使い方をまとめておく</title>
+      <title>[ setting ] How to use Academic</title>
       <link>/post/how-to-use-academic/</link>
       <pubDate>Sun, 19 Jan 2020 07:43:11 +0900</pubDate>
       <guid>/post/how-to-use-academic/</guid>
-      <description>&lt;p&gt;githubでは静的ページを &lt;code&gt;http://[username].github.io/&lt;/code&gt; で作成することができる。
-設定等については &lt;a href=&#34;https://pages.github.com/&#34;&gt;&lt;strong&gt;GitHub Pages&lt;/strong&gt;&lt;/a&gt; 参照。&lt;/p&gt;
-&lt;p&gt;静的サイトジェネレーター &lt;a href=&#34;https://gohugo.io/&#34;&gt;&lt;strong&gt;Hugo&lt;/strong&gt;&lt;/a&gt; でサイトを作って放置していたので今回は初めての post として備忘録を兼ねて自分用にいくつかメモをしておく。&lt;/p&gt;
-&lt;p&gt;使っているのは &lt;a href=&#34;https://sourcethemes.com/academic/&#34;&gt;&lt;strong&gt;Academic&lt;/strong&gt;&lt;/a&gt; というテーマで、詳しい使い方は &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34;&gt;&lt;strong&gt;公式Document&lt;/strong&gt;&lt;/a&gt; に全て英語で書いてあるが、よく使いそうな機能をこのページにまとめる。&lt;/p&gt;
-&lt;p&gt;Academic ではマークダウンでページを生成することができて、細かい設定に拘らなければ HTML や CSS に触れる必要はなく、web にそこまで詳しくない自分でもそれらしい形の物は作ることができた。&lt;/p&gt;
-&lt;h3 id=&#34;メニューバーの設定&#34;&gt;メニューバーの設定&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;config/_default/menus.toml&lt;/code&gt; で設定。&lt;/p&gt;
-&lt;p&gt;メニューバーに表示させる項目(&lt;code&gt;Home&lt;/code&gt;, &lt;code&gt;Posts&lt;/code&gt; など) の表示・非表示設定、順番、リンク先などの設定できる。&lt;/p&gt;
-&lt;h3 id=&#34;自己紹介の設定&#34;&gt;自己紹介の設定&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;content/authors/admin/_index.md&lt;/code&gt;で設定。&lt;/p&gt;
-&lt;h3 id=&#34;home-ページの設定&#34;&gt;Home ページの設定&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;content/home/*.md&lt;/code&gt; で設定。ここで表示・非表示などの設定ができる。例えば &lt;code&gt;posts.md&lt;/code&gt; であれば、&lt;code&gt;content/post/&lt;/code&gt; と対応していて、このフォルダの中のディレクトリの内容をいくつ表示するか、などを決める。&lt;/p&gt;
-&lt;h3 id=&#34;usernamegithubio-ページの設定&#34;&gt;[username].github.io/* ページの設定&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;[username].github.io/post&lt;/code&gt; の場合、&lt;code&gt;content/post/_index.md&lt;/code&gt; でページのタイトル・サブタイトル等を設定できる。&lt;/p&gt;
-&lt;h3 id=&#34;新しいページの作成&#34;&gt;新しいページの作成&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-a-blog-post&#34;&gt;&lt;strong&gt;公式Documentのここ&lt;/strong&gt;&lt;/a&gt; に書いてある通り、例えば新しい投稿しようとしたときは、
-&lt;code&gt;hugo new --kind post post/my-article-name&lt;/code&gt; で新しくmy-article-nameフォルダが自動作成されて、そのフォルダ内のindex.mdに書けばよい。(手動でフォルダや設定ファイルを作成するとフォント等がデフォルトと少し異なり気持ち悪い？)&lt;/p&gt;
-&lt;h3 id=&#34;数式コードの書き方&#34;&gt;数式・コードの書き方&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/post/writing-technical-content/&#34;&gt;&lt;strong&gt;公式のDemoサイト&lt;/strong&gt;&lt;/a&gt; に詳しく書いてある。&lt;/p&gt;
-&lt;h3 id=&#34;contact-の設定&#34;&gt;Contact の設定&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;config/_default/params.toml&lt;/code&gt; で設定。電話番号や住所の公開・非公開などが設定できる。&lt;/p&gt;
-&lt;h3 id=&#34;変更内容の確認&#34;&gt;変更内容の確認&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;hugo server&lt;/code&gt; でサーバーを立ち上げ、&lt;code&gt;localhost:1313&lt;/code&gt;で確認できる。&lt;/p&gt;
-&lt;h3 id=&#34;まとめ&#34;&gt;まとめ&lt;/h3&gt;
-&lt;p&gt;幾らか項目を上げたが、まだわかっていないことも多いので積極的にページを触っていきたい。&lt;/p&gt;
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;We can make our own website on &lt;code&gt;http://[username].github.io/&lt;/code&gt; for free if you have your GitHub account.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;If you want to know more detail, please go to &lt;a href=&#34;https://pages.github.com/&#34;&gt;&lt;strong&gt;GitHub Pages&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;This page is made by &lt;a href=&#34;https://gohugo.io/&#34;&gt;&lt;strong&gt;Hugo&lt;/strong&gt;&lt;/a&gt;, which is one of the most popular OSS static site generators.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Hugo has many kind of themes and I choosed &lt;a href=&#34;https://sourcethemes.com/academic/&#34;&gt;&lt;strong&gt;Academic&lt;/strong&gt;&lt;/a&gt;. Academic is very functional, that is, there are many choices to customize,
+however, it is sometimes too much for me. That is why I take notes for some practical settings for my own in this page.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;By using Academic, we can make pages from markdown, without setting HTML or CSS, because generators generates such kinds of files automatically.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;setting-for-menu-bar&#34;&gt;Setting for menu bar&lt;/h3&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Go to &lt;code&gt;config/_default/menus.toml&lt;/code&gt;, and we can change setting for display, sequence, and link about items on menu bar such as &lt;code&gt;Home&lt;/code&gt;, &lt;code&gt;Posts&lt;/code&gt;, and so on.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;setting-for-bibliography&#34;&gt;Setting for bibliography&lt;/h3&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Go to &lt;code&gt;content/authors/admin/_index.md&lt;/code&gt;.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;setting-for-home-page&#34;&gt;Setting for home page&lt;/h3&gt;
+&lt;p&gt;Go to &lt;code&gt;content/home/*.md&lt;/code&gt;, and then we can change setting for display and so on. For example, in the case of &lt;code&gt;posts.md&lt;/code&gt;,
+that markdown file interact with &lt;code&gt;content/post/&lt;/code&gt;, and we can decide how many directories display.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;setting-for-usernamegithubio&#34;&gt;Setting for [username].github.io/*&lt;/h3&gt;
+&lt;p&gt;For example, in the case of &lt;code&gt;[username].github.io/post&lt;/code&gt;,
+go to `content/post/_index.md, and then we can change setting for title or subtitle on home page.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;how-to-make-new-pages&#34;&gt;How to make new pages&lt;/h3&gt;
+&lt;p&gt;If you want to know detail, go to this &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-a-blog-post&#34;&gt;&lt;strong&gt;official document&lt;/strong&gt;&lt;/a&gt;.
+For example, in the case of making new post, type &lt;code&gt;hugo new --kind post post/my-article-name&lt;/code&gt; in terminal,
+and then the new folder whose name is my-article-name is made automatically, so we can write contents on index.md in the folder.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;how-to-write-technical-content&#34;&gt;How to write technical content&lt;/h3&gt;
+&lt;p&gt;Go to &lt;a href=&#34;https://academic-demo.netlify.com/post/writing-technical-content/&#34;&gt;&lt;strong&gt;official demo pages&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;setting-for-contact&#34;&gt;Setting for contact&lt;/h3&gt;
+&lt;p&gt;Go to &lt;code&gt;config/_default/params.toml&lt;/code&gt;, and then we can change setting for our telephone number, our street address and so on.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;how-to-check-changes&#34;&gt;How to check changes&lt;/h3&gt;
+&lt;p&gt;Type &lt;code&gt;hugo server&lt;/code&gt; in terminal, and then hugo server starts and we can go to &lt;code&gt;localhost:1313&lt;/code&gt; for checking changes.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     

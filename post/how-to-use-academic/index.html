@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="備忘録">
+  <meta name="description" content="memo">
 
   
   <link rel="alternate" hreflang="en-us" href="/post/how-to-use-academic/">
@@ -109,8 +109,8 @@
   
   <meta property="og:site_name" content="Hiroaki Yamagiwa">
   <meta property="og:url" content="/post/how-to-use-academic/">
-  <meta property="og:title" content="[ 設定 ] github pagesでポートフォリオ用のサイトを作成したので使い方をまとめておく | Hiroaki Yamagiwa">
-  <meta property="og:description" content="備忘録"><meta property="og:image" content="/img/icon-192.png">
+  <meta property="og:title" content="[ setting ] How to use Academic | Hiroaki Yamagiwa">
+  <meta property="og:description" content="memo"><meta property="og:image" content="/img/icon-192.png">
   <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     
@@ -155,7 +155,7 @@
     "@type": "WebPage",
     "@id": "/post/how-to-use-academic/"
   },
-  "headline": "[ 設定 ] github pagesでポートフォリオ用のサイトを作成したので使い方をまとめておく",
+  "headline": "[ setting ] How to use Academic",
   
   "datePublished": "2020-01-19T07:43:11+09:00",
   "dateModified": "2020-01-19T07:43:11+09:00",
@@ -173,7 +173,7 @@
       "url": "/img/icon-512.png"
     }
   },
-  "description": "備忘録"
+  "description": "memo"
 }
 </script>
 
@@ -191,7 +191,7 @@
 
 
 
-  <title>[ 設定 ] github pagesでポートフォリオ用のサイトを作成したので使い方をまとめておく | Hiroaki Yamagiwa</title>
+  <title>[ setting ] How to use Academic | Hiroaki Yamagiwa</title>
 
 </head>
 
@@ -360,35 +360,6 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#projects"><span>Projects</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
           <a class="nav-link " href="/#contact"><span>Contact</span></a>
         </li>
 
@@ -444,7 +415,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>[ 設定 ] github pagesでポートフォリオ用のサイトを作成したので使い方をまとめておく</h1>
+  <h1>[ setting ] How to use Academic</h1>
 
   
 
@@ -485,7 +456,7 @@
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    1 min read
+    2 min read
   </span>
   
 
@@ -530,31 +501,57 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p>githubでは静的ページを <code>http://[username].github.io/</code> で作成することができる。
-設定等については <a href="https://pages.github.com/"><strong>GitHub Pages</strong></a> 参照。</p>
-<p>静的サイトジェネレーター <a href="https://gohugo.io/"><strong>Hugo</strong></a> でサイトを作って放置していたので今回は初めての post として備忘録を兼ねて自分用にいくつかメモをしておく。</p>
-<p>使っているのは <a href="https://sourcethemes.com/academic/"><strong>Academic</strong></a> というテーマで、詳しい使い方は <a href="https://sourcethemes.com/academic/docs/"><strong>公式Document</strong></a> に全て英語で書いてあるが、よく使いそうな機能をこのページにまとめる。</p>
-<p>Academic ではマークダウンでページを生成することができて、細かい設定に拘らなければ HTML や CSS に触れる必要はなく、web にそこまで詳しくない自分でもそれらしい形の物は作ることができた。</p>
-<h3 id="メニューバーの設定">メニューバーの設定</h3>
-<p><code>config/_default/menus.toml</code> で設定。</p>
-<p>メニューバーに表示させる項目(<code>Home</code>, <code>Posts</code> など) の表示・非表示設定、順番、リンク先などの設定できる。</p>
-<h3 id="自己紹介の設定">自己紹介の設定</h3>
-<p><code>content/authors/admin/_index.md</code>で設定。</p>
-<h3 id="home-ページの設定">Home ページの設定</h3>
-<p><code>content/home/*.md</code> で設定。ここで表示・非表示などの設定ができる。例えば <code>posts.md</code> であれば、<code>content/post/</code> と対応していて、このフォルダの中のディレクトリの内容をいくつ表示するか、などを決める。</p>
-<h3 id="usernamegithubio-ページの設定">[username].github.io/* ページの設定</h3>
-<p><code>[username].github.io/post</code> の場合、<code>content/post/_index.md</code> でページのタイトル・サブタイトル等を設定できる。</p>
-<h3 id="新しいページの作成">新しいページの作成</h3>
-<p><a href="https://sourcethemes.com/academic/docs/managing-content/#create-a-blog-post"><strong>公式Documentのここ</strong></a> に書いてある通り、例えば新しい投稿しようとしたときは、
-<code>hugo new --kind post post/my-article-name</code> で新しくmy-article-nameフォルダが自動作成されて、そのフォルダ内のindex.mdに書けばよい。(手動でフォルダや設定ファイルを作成するとフォント等がデフォルトと少し異なり気持ち悪い？)</p>
-<h3 id="数式コードの書き方">数式・コードの書き方</h3>
-<p><a href="https://academic-demo.netlify.com/post/writing-technical-content/"><strong>公式のDemoサイト</strong></a> に詳しく書いてある。</p>
-<h3 id="contact-の設定">Contact の設定</h3>
-<p><code>config/_default/params.toml</code> で設定。電話番号や住所の公開・非公開などが設定できる。</p>
-<h3 id="変更内容の確認">変更内容の確認</h3>
-<p><code>hugo server</code> でサーバーを立ち上げ、<code>localhost:1313</code>で確認できる。</p>
-<h3 id="まとめ">まとめ</h3>
-<p>幾らか項目を上げたが、まだわかっていないことも多いので積極的にページを触っていきたい。</p>
+      <!-- raw HTML omitted -->
+<p>We can make our own website on <code>http://[username].github.io/</code> for free if you have your GitHub account.</p>
+<!-- raw HTML omitted -->
+<p>If you want to know more detail, please go to <a href="https://pages.github.com/"><strong>GitHub Pages</strong></a>.</p>
+<!-- raw HTML omitted -->
+<p>This page is made by <a href="https://gohugo.io/"><strong>Hugo</strong></a>, which is one of the most popular OSS static site generators.</p>
+<!-- raw HTML omitted -->
+<p>Hugo has many kind of themes and I choosed <a href="https://sourcethemes.com/academic/"><strong>Academic</strong></a>. Academic is very functional, that is, there are many choices to customize,
+however, it is sometimes too much for me. That is why I take notes for some practical settings for my own in this page.</p>
+<!-- raw HTML omitted -->
+<p>By using Academic, we can make pages from markdown, without setting HTML or CSS, because generators generates such kinds of files automatically.</p>
+<!-- raw HTML omitted -->
+<h3 id="setting-for-menu-bar">Setting for menu bar</h3>
+<!-- raw HTML omitted -->
+<p>Go to <code>config/_default/menus.toml</code>, and we can change setting for display, sequence, and link about items on menu bar such as <code>Home</code>, <code>Posts</code>, and so on.</p>
+<!-- raw HTML omitted -->
+<h3 id="setting-for-bibliography">Setting for bibliography</h3>
+<!-- raw HTML omitted -->
+<p>Go to <code>content/authors/admin/_index.md</code>.</p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<h3 id="setting-for-home-page">Setting for home page</h3>
+<p>Go to <code>content/home/*.md</code>, and then we can change setting for display and so on. For example, in the case of <code>posts.md</code>,
+that markdown file interact with <code>content/post/</code>, and we can decide how many directories display.</p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<h3 id="setting-for-usernamegithubio">Setting for [username].github.io/*</h3>
+<p>For example, in the case of <code>[username].github.io/post</code>,
+go to `content/post/_index.md, and then we can change setting for title or subtitle on home page.</p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<h3 id="how-to-make-new-pages">How to make new pages</h3>
+<p>If you want to know detail, go to this <a href="https://sourcethemes.com/academic/docs/managing-content/#create-a-blog-post"><strong>official document</strong></a>.
+For example, in the case of making new post, type <code>hugo new --kind post post/my-article-name</code> in terminal,
+and then the new folder whose name is my-article-name is made automatically, so we can write contents on index.md in the folder.</p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<h3 id="how-to-write-technical-content">How to write technical content</h3>
+<p>Go to <a href="https://academic-demo.netlify.com/post/writing-technical-content/"><strong>official demo pages</strong></a>.</p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<h3 id="setting-for-contact">Setting for contact</h3>
+<p>Go to <code>config/_default/params.toml</code>, and then we can change setting for our telephone number, our street address and so on.</p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<h3 id="how-to-check-changes">How to check changes</h3>
+<p>Type <code>hugo server</code> in terminal, and then hugo server starts and we can go to <code>localhost:1313</code> for checking changes.</p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<blockquote>
+</blockquote>
 
     </div>
 
