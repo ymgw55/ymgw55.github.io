@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/</loc>
+    <lastmod>2021-01-27T21:25:48+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/janorm/</loc>
+    <lastmod>2021-01-27T21:25:48+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/machine-learning/</loc>
+    <lastmod>2021-01-27T21:25:48+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2021-01-27T21:25:48+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/python/</loc>
+    <lastmod>2021-01-27T21:25:48+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-01-27T21:25:48+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/admin/</loc>
     <lastmod>2020-01-19T07:43:11+09:00</lastmod>
   </url>
@@ -33,22 +63,12 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-01-19T07:43:11+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/</loc>
     <lastmod>2020-01-19T07:43:11+09:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/settings/</loc>
-    <lastmod>2020-01-19T07:43:11+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-01-19T07:43:11+09:00</lastmod>
   </url>
   
