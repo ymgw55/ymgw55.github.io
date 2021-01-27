@@ -38,11 +38,6 @@
   </url>
   
   <url>
-    <loc>/post/how-to-use-academic/</loc>
-    <lastmod>2020-01-19T07:43:11+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/academic-theme/</loc>
     <lastmod>2020-01-19T07:43:11+09:00</lastmod>
   </url>
@@ -59,6 +54,11 @@
   
   <url>
     <loc>/tags/github/</loc>
+    <lastmod>2020-01-19T07:43:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/how-to-use-academic/</loc>
     <lastmod>2020-01-19T07:43:11+09:00</lastmod>
   </url>
   
