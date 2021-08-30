@@ -51,7 +51,8 @@ go to `content/post/_index.md, and then we can change setting for title or subti
 &lt;h3 id=&#34;how-to-make-new-pages&#34;&gt;How to make new pages&lt;/h3&gt;
 &lt;p&gt;If you want to know detail, go to this &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-a-blog-post&#34;&gt;&lt;strong&gt;official document&lt;/strong&gt;&lt;/a&gt;.
 For example, in the case of making new post, type &lt;code&gt;hugo new --kind post post/my-article-name&lt;/code&gt; in terminal,
-and then the new folder whose name is my-article-name is made automatically, so we can write contents on index.md in the folder.&lt;/p&gt;
+and then the new folder whose name is my-article-name is made automatically, so we can write contents on index.md in the folder.
+In this case, to show a new page in home, you go to &lt;code&gt;content/home/posts.md&lt;/code&gt; and ensure &lt;code&gt;active = true&lt;/code&gt;.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;h3 id=&#34;how-to-write-technical-content&#34;&gt;How to write technical content&lt;/h3&gt;
