@@ -17,7 +17,7 @@
       <link>/post/image-preprocessing/</link>
       <pubDate>Sat, 01 Feb 2020 02:49:02 +0900</pubDate>
       <guid>/post/image-preprocessing/</guid>
-      <description>&lt;p&gt;OpenCVを用いて画像の前処理をする機会があったので、いくつかメモとして残しておく。&lt;/p&gt;
+      <description>&lt;p&gt;OpenCVを用いて画像の前処理をする機会があったので,いくつかメモとして残しておく.&lt;/p&gt;
 &lt;h2 id=&#34;サイズ変更&#34;&gt;サイズ変更&lt;/h2&gt;
 &lt;h2 id=&#34;ノイズ除去&#34;&gt;ノイズ除去&lt;/h2&gt;
 &lt;h2 id=&#34;シャープネス&#34;&gt;シャープネス&lt;/h2&gt;
@@ -33,13 +33,13 @@
 &lt;h4 id=&#34;適応的しきい値処理&#34;&gt;適応的しきい値処理&lt;/h4&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;適応的しきい値の仕組みについては&lt;a href=&#34;/post/image-preprocessing/adaptive-thresholding&#34;&gt;こちら&lt;/a&gt;でまとめる。&lt;/p&gt;
+&lt;p&gt;適応的しきい値の仕組みについては&lt;a href=&#34;/post/image-preprocessing/adaptive-thresholding&#34;&gt;こちら&lt;/a&gt;でまとめる.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;h4 id=&#34;大津の二値化&#34;&gt;大津の二値化&lt;/h4&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;大津の二値化の仕組みについては&lt;a href=&#34;/post/image-preprocessing/otsu-thresholding&#34;&gt;こちら&lt;/a&gt;でまとめる。&lt;/p&gt;
+&lt;p&gt;大津の二値化の仕組みについては&lt;a href=&#34;/post/image-preprocessing/otsu-thresholding&#34;&gt;こちら&lt;/a&gt;でまとめる.&lt;/p&gt;
 &lt;h2 id=&#34;pilへの変換&#34;&gt;PILへの変換&lt;/h2&gt;
 </description>
     </item>

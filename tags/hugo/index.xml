@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo | Hiroaki Yamagiwa</title>
+    <link>/tags/hugo/</link>
+      <atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hugo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Jan 2020 07:43:11 +0900</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Hugo</title>
+      <link>/tags/hugo/</link>
+    </image>
+    
+    <item>
+      <title>wowchemy-hugo-themes の使い方</title>
+      <link>/post/how-to-use-academic/</link>
+      <pubDate>Sun, 19 Jan 2020 07:43:11 +0900</pubDate>
+      <guid>/post/how-to-use-academic/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;hugohttpsgohugoio&#34;&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;静的サイトジェネレーター&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;wowchemyhttpswowchemycomblogintroducing-wowchemy&#34;&gt;&lt;a href=&#34;https://wowchemy.com/blog/introducing-wowchemy/&#34;&gt;wowchemy&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;旧Academic. 早めに wowchemy の仕様に移行する必要あり. (e.g. toml から yaml への移行)&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;メニューバーの設定&#34;&gt;メニューバーの設定&lt;/h3&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;code&gt;config/_default/menus.toml&lt;/code&gt; で設定. メニューバーに表示させる項目(&lt;code&gt;Home&lt;/code&gt;, &lt;code&gt;Posts&lt;/code&gt; など) の表示・非表示設定,順番, リンク先などの設定できる.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;自己紹介の設定&#34;&gt;自己紹介の設定&lt;/h3&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;code&gt;content/authors/admin/_index.md&lt;/code&gt;で設定.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;home-ページの設定&#34;&gt;Home ページの設定&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;content/home/*.md&lt;/code&gt; で設定. ここで表示・非表示などの設定ができる. 例えば &lt;code&gt;posts.md&lt;/code&gt; であれば, &lt;code&gt;content/post/&lt;/code&gt; と対応していて, このフォルダの中のディレクトリの内容をいくつ表示するか, などを決める.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;usernamegithubio-ページの設定&#34;&gt;[username].github.io/* ページの設定&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;[username].github.io/post&lt;/code&gt; の場合, &lt;code&gt;content/post/_index.md&lt;/code&gt; でページのタイトル・サブタイトル等を設定できる.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;新しいページの作成&#34;&gt;新しいページの作成&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/content/#create-a-blog-post&#34;&gt;&lt;strong&gt;Document&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;postの場合, &lt;code&gt;hugo new --kind post post/my-article-name&lt;/code&gt; で新しくmy-article-nameフォルダが自動作成されて, そのフォルダ内のindex.mdに書けばよい.&lt;/li&gt;
+&lt;li&gt;slidesの場合, &lt;code&gt;hugo new --kind slide slides/slide-name/index.md&lt;/code&gt;で新しく&lt;code&gt;index.md&lt;/code&gt;を作成後, 始めに&lt;code&gt;markup: blackfriday&lt;/code&gt;を挿入する必要がある. (参考: &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/issues/1479&#34;&gt;Githubのissue&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;数式コードの書き方&#34;&gt;数式・コードの書き方&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.app/post/writing-technical-content/&#34;&gt;&lt;strong&gt;Document&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;contact-の設定&#34;&gt;Contact の設定&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;config/_default/params.toml&lt;/code&gt; で設定. 電話番号や住所の公開・非公開などが設定できる.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;変更内容の確認&#34;&gt;変更内容の確認&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;hugo server&lt;/code&gt; でサーバーを立ち上げ, &lt;code&gt;localhost:1313&lt;/code&gt;で確認.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

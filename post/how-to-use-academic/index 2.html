@@ -559,31 +559,31 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p>githubでは静的ページを <code>http://[username].github.io/</code> で作成することができる。
-設定等については <a href="https://pages.github.com/"><strong>GitHub Pages</strong></a> 参照。</p>
-<p>静的サイトジェネレーター <a href="https://gohugo.io/"><strong>Hugo</strong></a> でサイトを作って放置していたので今回は初めての post として備忘録を兼ねて自分用にいくつかメモをしておく。</p>
-<p>使っているのは <a href="https://sourcethemes.com/academic/"><strong>Academic</strong></a> というテーマで、詳しい使い方は <a href="https://sourcethemes.com/academic/docs/"><strong>公式Document</strong></a> に全て英語で書いてあるが、よく使いそうな機能をこのページにまとめる。</p>
-<p>Academic ではマークダウンでページを生成することができて、細かい設定に拘らなければ HTML や CSS に触れる必要はなく、web にそこまで詳しくない自分でもそれらしい形の物は作ることができた。</p>
+      <p>githubでは静的ページを <code>http://[username].github.io/</code> で作成することができる.
+設定等については <a href="https://pages.github.com/"><strong>GitHub Pages</strong></a> 参照.</p>
+<p>静的サイトジェネレーター <a href="https://gohugo.io/"><strong>Hugo</strong></a> でサイトを作って放置していたので今回は初めての post として備忘録を兼ねて自分用にいくつかメモをしておく.</p>
+<p>使っているのは <a href="https://sourcethemes.com/academic/"><strong>Academic</strong></a> というテーマで,詳しい使い方は <a href="https://sourcethemes.com/academic/docs/"><strong>公式Document</strong></a> に全て英語で書いてあるが,よく使いそうな機能をこのページにまとめる.</p>
+<p>Academic ではマークダウンでページを生成することができて,細かい設定に拘らなければ HTML や CSS に触れる必要はなく,web にそこまで詳しくない自分でもそれらしい形の物は作ることができた.</p>
 <h3 id="メニューバーの設定">メニューバーの設定</h3>
-<p><code>config/_default/menus.toml</code> で設定。</p>
-<p>メニューバーに表示させる項目(<code>Home</code>, <code>Posts</code> など) の表示・非表示設定、順番、リンク先などの設定できる。</p>
+<p><code>config/_default/menus.toml</code> で設定.</p>
+<p>メニューバーに表示させる項目(<code>Home</code>, <code>Posts</code> など) の表示・非表示設定,順番,リンク先などの設定できる.</p>
 <h3 id="自己紹介の設定">自己紹介の設定</h3>
-<p><code>content/authors/admin/_index.md</code>で設定。</p>
+<p><code>content/authors/admin/_index.md</code>で設定.</p>
 <h3 id="home-ページの設定">Home ページの設定</h3>
-<p><code>content/home/*.md</code> で設定。ここで表示・非表示などの設定ができる。例えば <code>posts.md</code> であれば、<code>content/post/</code> と対応していて、このフォルダの中のディレクトリの内容をいくつ表示するか、などを決める。</p>
+<p><code>content/home/*.md</code> で設定.ここで表示・非表示などの設定ができる.例えば <code>posts.md</code> であれば,<code>content/post/</code> と対応していて,このフォルダの中のディレクトリの内容をいくつ表示するか,などを決める.</p>
 <h3 id="usernamegithubio-ページの設定">[username].github.io/* ページの設定</h3>
-<p><code>[username].github.io/post</code> の場合、<code>content/post/_index.md</code> でページのタイトル・サブタイトル等を設定できる。</p>
+<p><code>[username].github.io/post</code> の場合,<code>content/post/_index.md</code> でページのタイトル・サブタイトル等を設定できる.</p>
 <h3 id="新しいページの作成">新しいページの作成</h3>
-<p><a href="https://sourcethemes.com/academic/docs/managing-content/#create-a-blog-post"><strong>公式Documentのここ</strong></a> に書いてある通り、例えば新しい投稿しようとしたときは、
-<code>hugo new --kind post post/my-article-name</code> で新しくmy-article-nameフォルダが自動作成されて、そのフォルダ内のindex.mdに書けばよい。(手動でフォルダや設定ファイルを作成するとフォント等がデフォルトと少し異なり気持ち悪い？)</p>
+<p><a href="https://sourcethemes.com/academic/docs/managing-content/#create-a-blog-post"><strong>公式Documentのここ</strong></a> に書いてある通り,例えば新しい投稿しようとしたときは,
+<code>hugo new --kind post post/my-article-name</code> で新しくmy-article-nameフォルダが自動作成されて,そのフォルダ内のindex.mdに書けばよい.(手動でフォルダや設定ファイルを作成するとフォント等がデフォルトと少し異なり気持ち悪い？)</p>
 <h3 id="数式コードの書き方">数式・コードの書き方</h3>
-<p><a href="https://academic-demo.netlify.com/post/writing-technical-content/"><strong>公式のDemoサイト</strong></a> に詳しく書いてある。</p>
+<p><a href="https://academic-demo.netlify.com/post/writing-technical-content/"><strong>公式のDemoサイト</strong></a> に詳しく書いてある.</p>
 <h3 id="contact-の設定">Contact の設定</h3>
-<p><code>config/_default/params.toml</code> で設定。電話番号や住所の公開・非公開などが設定できる。</p>
+<p><code>config/_default/params.toml</code> で設定.電話番号や住所の公開・非公開などが設定できる.</p>
 <h3 id="変更内容の確認">変更内容の確認</h3>
-<p><code>hugo server</code> でサーバーを立ち上げ、<code>localhost:1313</code>で確認できる。</p>
+<p><code>hugo server</code> でサーバーを立ち上げ,<code>localhost:1313</code>で確認できる.</p>
 <h3 id="まとめ">まとめ</h3>
-<p>幾らか項目を上げたが、まだわかっていないことも多いので積極的にページを触っていきたい。</p>
+<p>幾らか項目を上げたが,まだわかっていないことも多いので積極的にページを触っていきたい.</p>
 
     </div>
 
