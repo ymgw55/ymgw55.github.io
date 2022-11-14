@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cotents | Hiroaki Yamagiwa</title>
+    <link>/cotent/</link>
+      <atom:link href="/cotent/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cotents</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 14 Nov 2022 16:40:15 +0900</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Cotents</title>
+      <link>/cotent/</link>
+    </image>
+    
+    <item>
+      <title>Jfssa2022</title>
+      <link>/cotent/talks/jfssa2022/</link>
+      <pubDate>Mon, 14 Nov 2022 16:40:15 +0900</pubDate>
+      <guid>/cotent/talks/jfssa2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

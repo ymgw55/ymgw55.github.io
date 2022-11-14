@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>preprint | Hiroaki Yamagiwa</title>
+    <link>/categories/preprint/</link>
+      <atom:link href="/categories/preprint/index.xml" rel="self" type="application/rss+xml" />
+    <description>preprint</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 14 Nov 2022 16:10:19 +0900</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>preprint</title>
+      <link>/categories/preprint/</link>
+    </image>
+    
+    <item>
+      <title>Improving word mover&#39;s distance by leveraging self-attention matrix</title>
+      <link>/publication/wsmd/</link>
+      <pubDate>Mon, 14 Nov 2022 16:10:19 +0900</pubDate>
+      <guid>/publication/wsmd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

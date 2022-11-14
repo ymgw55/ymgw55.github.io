@@ -51,7 +51,9 @@
 &lt;h3 id=&#34;新しいページの作成&#34;&gt;新しいページの作成&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/content/#create-a-blog-post&#34;&gt;&lt;strong&gt;Document&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;postの場合, &lt;code&gt;hugo new --kind post post/my-article-name&lt;/code&gt; で新しくmy-article-nameフォルダが自動作成されて, そのフォルダ内のindex.mdに書けばよい.&lt;/li&gt;
+&lt;li&gt;publicaton の場合,  &lt;code&gt;hugo new content/publication/paper-name&lt;/code&gt; で新しく &lt;code&gt;paper-name&lt;/code&gt; フォルダが自動作成されて, そのフォルダ内の &lt;code&gt;index.md&lt;/code&gt; に書けばよい. その際, &lt;code&gt;home&lt;/code&gt; に表示するものは &lt;code&gt;featured: true&lt;/code&gt; にする必要がある.&lt;/li&gt;
+&lt;li&gt;talk の場合, &lt;code&gt;hugo new --kind talk talk/my-talk&lt;/code&gt; で新しく &lt;code&gt;my-talk&lt;/code&gt; フォルダが自動作成されて, そのフォルダ内の &lt;code&gt;index.md&lt;/code&gt; に書けばよい.&lt;/li&gt;
+&lt;li&gt;post の場合, &lt;code&gt;hugo new --kind post post/my-article-name&lt;/code&gt; で新しく&lt;code&gt;my-article-name&lt;/code&gt;フォルダが自動作成されて, そのフォルダ内の &lt;code&gt;index.md&lt;/code&gt; に書けばよい.&lt;/li&gt;
 &lt;li&gt;slidesの場合, &lt;code&gt;hugo new --kind slide slides/slide-name/index.md&lt;/code&gt;で新しく&lt;code&gt;index.md&lt;/code&gt;を作成後, 始めに&lt;code&gt;markup: blackfriday&lt;/code&gt;を挿入する必要がある. (参考: &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/issues/1479&#34;&gt;Githubのissue&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!-- raw HTML omitted --&gt;

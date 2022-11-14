@@ -302,7 +302,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#experience"><span>Experiences</span></a>
+          <a class="nav-link " href="/#featured"><span>Publications</span></a>
         </li>
 
         
@@ -332,6 +332,35 @@
 
         <li class="nav-item">
           <a class="nav-link " href="/#talks"><span>Talks</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#experiences"><span>Experiences</span></a>
         </li>
 
         
@@ -419,26 +448,6 @@
 
         <li class="nav-item">
           <a class="nav-link " href="/#contact"><span>Contact</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-
-        
-        
-        
-        
-        
-        
-
-        <li class="nav-item">
-          <a class="nav-link  active" href="/"><span></span></a>
         </li>
 
         
@@ -613,7 +622,9 @@
 <h3 id="新しいページの作成">新しいページの作成</h3>
 <p><a href="https://wowchemy.com/docs/content/#create-a-blog-post"><strong>Document</strong></a></p>
 <ul>
-<li>postの場合, <code>hugo new --kind post post/my-article-name</code> で新しくmy-article-nameフォルダが自動作成されて, そのフォルダ内のindex.mdに書けばよい.</li>
+<li>publicaton の場合,  <code>hugo new content/publication/paper-name</code> で新しく <code>paper-name</code> フォルダが自動作成されて, そのフォルダ内の <code>index.md</code> に書けばよい. その際, <code>home</code> に表示するものは <code>featured: true</code> にする必要がある.</li>
+<li>talk の場合, <code>hugo new --kind talk talk/my-talk</code> で新しく <code>my-talk</code> フォルダが自動作成されて, そのフォルダ内の <code>index.md</code> に書けばよい.</li>
+<li>post の場合, <code>hugo new --kind post post/my-article-name</code> で新しく<code>my-article-name</code>フォルダが自動作成されて, そのフォルダ内の <code>index.md</code> に書けばよい.</li>
 <li>slidesの場合, <code>hugo new --kind slide slides/slide-name/index.md</code>で新しく<code>index.md</code>を作成後, 始めに<code>markup: blackfriday</code>を挿入する必要がある. (参考: <a href="https://github.com/wowchemy/wowchemy-hugo-themes/issues/1479">Githubのissue</a>)</li>
 </ul>
 <!-- raw HTML omitted -->
