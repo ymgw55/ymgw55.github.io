@@ -28,7 +28,7 @@
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
-&lt;h3 id=&#34;wowchemyhttpswowchemycomblogintroducing-wowchemy&#34;&gt;&lt;a href=&#34;https://wowchemy.com/blog/introducing-wowchemy/&#34;&gt;wowchemy&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;wowchemyhttpswowchemycomutm_campaignpoweredby&#34;&gt;&lt;a href=&#34;https://wowchemy.com/?utm_campaign=poweredby&#34;&gt;wowchemy&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;旧Academic. 早めに wowchemy の仕様に移行する必要あり. (e.g. toml から yaml への移行)&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -60,8 +60,6 @@
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
-&lt;h3 id=&#34;数式コードの書き方&#34;&gt;数式・コードの書き方&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.app/post/writing-technical-content/&#34;&gt;&lt;strong&gt;Document&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;h3 id=&#34;contact-の設定&#34;&gt;Contact の設定&lt;/h3&gt;
@@ -69,13 +67,7 @@
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;h3 id=&#34;変更内容の確認&#34;&gt;変更内容の確認&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;hugo server&lt;/code&gt; でサーバーを立ち上げ, &lt;code&gt;localhost:1313&lt;/code&gt;で確認.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;blockquote&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;&lt;code&gt;hugo server&lt;/code&gt; でサーバーを立ち上げ, &lt;code&gt;localhost:1313&lt;/code&gt; で確認.&lt;/p&gt;
 </description>
     </item>
     
