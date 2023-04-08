@@ -5,7 +5,7 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Jan 2021 21:25:48 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Apr 2023 01:52:30 +0900</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Projects</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>janorm</title>
-      <link>/project/janorm/</link>
-      <pubDate>Wed, 27 Jan 2021 21:25:48 +0900</pubDate>
-      <guid>/project/janorm/</guid>
+      <title>Mlpapers</title>
+      <link>/project/mlpapers/</link>
+      <pubDate>Sun, 09 Apr 2023 01:52:30 +0900</pubDate>
+      <guid>/project/mlpapers/</guid>
       <description></description>
     </item>
     

@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/cotent/</loc>
-    <lastmod>2022-11-14T16:40:15+09:00</lastmod>
-  </url><url>
     <loc>/</loc>
+    <lastmod>2023-04-09T01:52:30+09:00</lastmod>
+  </url><url>
+    <loc>/project/mlpapers/</loc>
+    <lastmod>2023-04-09T01:52:30+09:00</lastmod>
+  </url><url>
+    <loc>/project/</loc>
+    <lastmod>2023-04-09T01:52:30+09:00</lastmod>
+  </url><url>
+    <loc>/cotent/</loc>
     <lastmod>2022-11-14T16:40:15+09:00</lastmod>
   </url><url>
     <loc>/cotent/talks/jfssa2022/</loc>
