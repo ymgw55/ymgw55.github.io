@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Momose Oyama | Hiroaki Yamagiwa</title>
-    <link>/authors/momose-oyama/</link>
-      <atom:link href="/authors/momose-oyama/index.xml" rel="self" type="application/rss+xml" />
-    <description>Momose Oyama</description>
+    <title>Ken Murakami | Hiroaki Yamagiwa</title>
+    <link>/authors/ken-murakami/</link>
+      <atom:link href="/authors/ken-murakami/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ken Murakami</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 30 Jun 2023 14:20:00 +0900</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Momose Oyama</title>
-      <link>/authors/momose-oyama/</link>
+      <title>Ken Murakami</title>
+      <link>/authors/ken-murakami/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/talk/ibisml50/</link>
       <pubDate>Fri, 30 Jun 2023 14:20:00 +0900</pubDate>
       <guid>/talk/ibisml50/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Discovering Universal Geometry in Embeddings with ICA</title>
-      <link>/publication/universal_ica/</link>
-      <pubDate>Tue, 23 May 2023 13:17:14 +0900</pubDate>
-      <guid>/publication/universal_ica/</guid>
       <description></description>
     </item>
     

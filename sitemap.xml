@@ -2,10 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/publication_types/0/</loc>
-    <lastmod>2023-05-23T13:17:14+09:00</lastmod>
-  </url><url>
     <loc>/authors/</loc>
+    <lastmod>2023-06-30T14:20:00+09:00</lastmod>
+  </url><url>
+    <loc>/authors/hidetoshi-shimodaira/</loc>
+    <lastmod>2023-06-30T14:20:00+09:00</lastmod>
+  </url><url>
+    <loc>/authors/hiroaki-yamagiwa/</loc>
+    <lastmod>2023-06-30T14:20:00+09:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-06-30T14:20:00+09:00</lastmod>
+  </url><url>
+    <loc>/authors/ken-murakami/</loc>
+    <lastmod>2023-06-30T14:20:00+09:00</lastmod>
+  </url><url>
+    <loc>/authors/kiwamu-arakane/</loc>
+    <lastmod>2023-06-30T14:20:00+09:00</lastmod>
+  </url><url>
+    <loc>/authors/mariko-okada/</loc>
+    <lastmod>2023-06-30T14:20:00+09:00</lastmod>
+  </url><url>
+    <loc>/authors/momose-oyama/</loc>
+    <lastmod>2023-06-30T14:20:00+09:00</lastmod>
+  </url><url>
+    <loc>/talk/</loc>
+    <lastmod>2023-06-30T14:20:00+09:00</lastmod>
+  </url><url>
+    <loc>/authors/ryoma-hashimoto/</loc>
+    <lastmod>2023-06-30T14:20:00+09:00</lastmod>
+  </url><url>
+    <loc>/talk/ibisml50/</loc>
+    <lastmod>2023-06-30T14:20:00+09:00</lastmod>
+  </url><url>
+    <loc>/publication_types/0/</loc>
     <lastmod>2023-05-23T13:17:14+09:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
@@ -14,19 +44,7 @@
     <loc>/publication/universal_ica/</loc>
     <lastmod>2023-05-23T13:17:14+09:00</lastmod>
   </url><url>
-    <loc>/authors/hidetoshi-shimodaira/</loc>
-    <lastmod>2023-05-23T13:17:14+09:00</lastmod>
-  </url><url>
-    <loc>/authors/hiroaki-yamagiwa/</loc>
-    <lastmod>2023-05-23T13:17:14+09:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2023-05-23T13:17:14+09:00</lastmod>
-  </url><url>
     <loc>/tags/ica/</loc>
-    <lastmod>2023-05-23T13:17:14+09:00</lastmod>
-  </url><url>
-    <loc>/authors/momose-oyama/</loc>
     <lastmod>2023-05-23T13:17:14+09:00</lastmod>
   </url><url>
     <loc>/tags/nlp/</loc>
@@ -50,12 +68,6 @@
     <loc>/project/</loc>
     <lastmod>2023-04-09T01:52:30+09:00</lastmod>
   </url><url>
-    <loc>/cotent/</loc>
-    <lastmod>2022-11-14T16:40:15+09:00</lastmod>
-  </url><url>
-    <loc>/cotent/talks/jfssa2022/</loc>
-    <lastmod>2022-11-14T16:40:15+09:00</lastmod>
-  </url><url>
     <loc>/publication/wsmd/</loc>
     <lastmod>2022-11-14T16:10:19+09:00</lastmod>
   </url><url>
@@ -64,9 +76,6 @@
   </url><url>
     <loc>/authors/sho-yokoi/</loc>
     <lastmod>2022-11-14T16:10:19+09:00</lastmod>
-  </url><url>
-    <loc>/talk/</loc>
-    <lastmod>2022-09-04T14:40:00+09:00</lastmod>
   </url><url>
     <loc>/talk/jfssa2022/</loc>
     <lastmod>2022-09-04T14:40:00+09:00</lastmod>
