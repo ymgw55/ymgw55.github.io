@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 30 Jun 2023 14:20:00 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 31 Aug 2023 14:00:00 +0900</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Hidetoshi Shimodaira</title>
       <link>/authors/hidetoshi-shimodaira/</link>
-      <pubDate>Fri, 30 Jun 2023 14:20:00 +0900</pubDate>
+      <pubDate>Thu, 31 Aug 2023 14:00:00 +0900</pubDate>
       <guid>/authors/hidetoshi-shimodaira/</guid>
       <description></description>
     </item>
@@ -23,8 +23,24 @@
     <item>
       <title>Hiroaki Yamagiwa</title>
       <link>/authors/hiroaki-yamagiwa/</link>
-      <pubDate>Fri, 30 Jun 2023 14:20:00 +0900</pubDate>
+      <pubDate>Thu, 31 Aug 2023 14:00:00 +0900</pubDate>
       <guid>/authors/hiroaki-yamagiwa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yoichi Ishibashi</title>
+      <link>/authors/yoichi-ishibashi/</link>
+      <pubDate>Thu, 31 Aug 2023 14:00:00 +0900</pubDate>
+      <guid>/authors/yoichi-ishibashi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Momose Oyama</title>
+      <link>/authors/momose-oyama/</link>
+      <pubDate>Thu, 31 Aug 2023 11:40:00 +0900</pubDate>
+      <guid>/authors/momose-oyama/</guid>
       <description></description>
     </item>
     
@@ -49,14 +65,6 @@
       <link>/authors/mariko-okada/</link>
       <pubDate>Fri, 30 Jun 2023 14:20:00 +0900</pubDate>
       <guid>/authors/mariko-okada/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Momose Oyama</title>
-      <link>/authors/momose-oyama/</link>
-      <pubDate>Fri, 30 Jun 2023 14:20:00 +0900</pubDate>
-      <guid>/authors/momose-oyama/</guid>
       <description></description>
     </item>
     
