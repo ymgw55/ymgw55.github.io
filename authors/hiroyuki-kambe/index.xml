@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hiroyuki Kambe | Hiroaki Yamagiwa</title>
+    <link>/authors/hiroyuki-kambe/</link>
+      <atom:link href="/authors/hiroyuki-kambe/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hiroyuki Kambe</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 30 Aug 2023 01:17:27 +0900</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Hiroyuki Kambe</title>
+      <link>/authors/hiroyuki-kambe/</link>
+    </image>
+    
+    <item>
+      <title>Zero-Shot Edge Detection with SCESAME: Spectral Clustering-based Ensemble for Segment Anything Model Estimation</title>
+      <link>/publication/scesame/</link>
+      <pubDate>Wed, 30 Aug 2023 01:17:27 +0900</pubDate>
+      <guid>/publication/scesame/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

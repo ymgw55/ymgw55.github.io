@@ -5,12 +5,20 @@
     <link>/publication_types/0/</link>
       <atom:link href="/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
     <description>0</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 May 2023 13:17:14 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 30 Aug 2023 01:17:27 +0900</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>0</title>
       <link>/publication_types/0/</link>
     </image>
+    
+    <item>
+      <title>Zero-Shot Edge Detection with SCESAME: Spectral Clustering-based Ensemble for Segment Anything Model Estimation</title>
+      <link>/publication/scesame/</link>
+      <pubDate>Wed, 30 Aug 2023 01:17:27 +0900</pubDate>
+      <guid>/publication/scesame/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Discovering Universal Geometry in Embeddings with ICA</title>
