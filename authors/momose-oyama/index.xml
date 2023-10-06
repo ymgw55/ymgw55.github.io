@@ -5,12 +5,20 @@
     <link>/authors/momose-oyama/</link>
       <atom:link href="/authors/momose-oyama/index.xml" rel="self" type="application/rss+xml" />
     <description>Momose Oyama*</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 31 Aug 2023 11:40:00 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 31 Oct 2023 14:10:00 +0900</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Momose Oyama*</title>
       <link>/authors/momose-oyama/</link>
     </image>
+    
+    <item>
+      <title>独立成分に基づく埋め込み表現の解釈と普遍的形状の解明</title>
+      <link>/talk/ibis2023/</link>
+      <pubDate>Tue, 31 Oct 2023 14:10:00 +0900</pubDate>
+      <guid>/talk/ibis2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>内部表現の幾何に基づく言語モデルの解釈</title>

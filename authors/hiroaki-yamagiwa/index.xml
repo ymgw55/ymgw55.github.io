@@ -5,12 +5,20 @@
     <link>/authors/hiroaki-yamagiwa/</link>
       <atom:link href="/authors/hiroaki-yamagiwa/index.xml" rel="self" type="application/rss+xml" />
     <description>Hiroaki Yamagiwa</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 31 Aug 2023 14:00:00 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 31 Oct 2023 14:10:00 +0900</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Hiroaki Yamagiwa</title>
       <link>/authors/hiroaki-yamagiwa/</link>
     </image>
+    
+    <item>
+      <title>独立成分に基づく埋め込み表現の解釈と普遍的形状の解明</title>
+      <link>/talk/ibis2023/</link>
+      <pubDate>Tue, 31 Oct 2023 14:10:00 +0900</pubDate>
+      <guid>/talk/ibis2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>高性能な文類似度を用いた事前学習モデルの対照学習</title>
