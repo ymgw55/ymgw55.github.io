@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 31 Oct 2023 14:10:00 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 06 Dec 2023 00:00:01 +0900</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Hidetoshi Shimodaira</title>
       <link>/authors/hidetoshi-shimodaira/</link>
-      <pubDate>Tue, 31 Oct 2023 14:10:00 +0900</pubDate>
+      <pubDate>Wed, 06 Dec 2023 00:00:01 +0900</pubDate>
       <guid>/authors/hidetoshi-shimodaira/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Hiroaki Yamagiwa</title>
       <link>/authors/hiroaki-yamagiwa/</link>
-      <pubDate>Tue, 31 Oct 2023 14:10:00 +0900</pubDate>
+      <pubDate>Wed, 06 Dec 2023 00:00:01 +0900</pubDate>
       <guid>/authors/hiroaki-yamagiwa/</guid>
       <description></description>
     </item>
@@ -31,8 +31,16 @@
     <item>
       <title>Momose Oyama*</title>
       <link>/authors/momose-oyama/</link>
-      <pubDate>Tue, 31 Oct 2023 14:10:00 +0900</pubDate>
+      <pubDate>Wed, 06 Dec 2023 00:00:01 +0900</pubDate>
       <guid>/authors/momose-oyama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sho Yokoi</title>
+      <link>/authors/sho-yokoi/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0900</pubDate>
+      <guid>/authors/sho-yokoi/</guid>
       <description></description>
     </item>
     
@@ -97,14 +105,6 @@
       <link>/authors/ryoma-hashimoto/</link>
       <pubDate>Fri, 30 Jun 2023 14:20:00 +0900</pubDate>
       <guid>/authors/ryoma-hashimoto/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sho Yokoi</title>
-      <link>/authors/sho-yokoi/</link>
-      <pubDate>Mon, 14 Nov 2022 16:10:19 +0900</pubDate>
-      <guid>/authors/sho-yokoi/</guid>
       <description></description>
     </item>
     

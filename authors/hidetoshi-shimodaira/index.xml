@@ -5,12 +5,28 @@
     <link>/authors/hidetoshi-shimodaira/</link>
       <atom:link href="/authors/hidetoshi-shimodaira/index.xml" rel="self" type="application/rss+xml" />
     <description>Hidetoshi Shimodaira</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 31 Oct 2023 14:10:00 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 06 Dec 2023 00:00:01 +0900</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Hidetoshi Shimodaira</title>
       <link>/authors/hidetoshi-shimodaira/</link>
     </image>
+    
+    <item>
+      <title>Discovering Universal Geometry in Embeddings with ICA</title>
+      <link>/publication/universal_ica/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:01 +0900</pubDate>
+      <guid>/publication/universal_ica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving word mover&#39;s distance by leveraging self-attention matrix</title>
+      <link>/publication/wsmd/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0900</pubDate>
+      <guid>/publication/wsmd/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>独立成分に基づく埋め込み表現の解釈と普遍的形状の解明</title>
@@ -41,22 +57,6 @@
       <link>/talk/ibisml50/</link>
       <pubDate>Fri, 30 Jun 2023 14:20:00 +0900</pubDate>
       <guid>/talk/ibisml50/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Discovering Universal Geometry in Embeddings with ICA</title>
-      <link>/publication/universal_ica/</link>
-      <pubDate>Tue, 23 May 2023 13:17:14 +0900</pubDate>
-      <guid>/publication/universal_ica/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Improving word mover&#39;s distance by leveraging self-attention matrix</title>
-      <link>/publication/wsmd/</link>
-      <pubDate>Mon, 14 Nov 2022 16:10:19 +0900</pubDate>
-      <guid>/publication/wsmd/</guid>
       <description></description>
     </item>
     

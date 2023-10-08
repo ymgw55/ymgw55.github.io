@@ -5,7 +5,7 @@
     <link>/categories/emnlp2023/</link>
       <atom:link href="/categories/emnlp2023/index.xml" rel="self" type="application/rss+xml" />
     <description>EMNLP2023</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 May 2023 13:17:14 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 06 Dec 2023 00:00:01 +0900</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>EMNLP2023</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Discovering Universal Geometry in Embeddings with ICA</title>
       <link>/publication/universal_ica/</link>
-      <pubDate>Tue, 23 May 2023 13:17:14 +0900</pubDate>
+      <pubDate>Wed, 06 Dec 2023 00:00:01 +0900</pubDate>
       <guid>/publication/universal_ica/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Improving word mover&#39;s distance by leveraging self-attention matrix</title>
       <link>/publication/wsmd/</link>
-      <pubDate>Mon, 14 Nov 2022 16:10:19 +0900</pubDate>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0900</pubDate>
       <guid>/publication/wsmd/</guid>
       <description></description>
     </item>
