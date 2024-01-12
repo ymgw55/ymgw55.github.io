@@ -3,13 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/publication_types/0/</loc>
-    <lastmod>2024-01-03T01:17:27+09:00</lastmod>
+    <lastmod>2024-01-12T04:35:40+09:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2024-01-03T01:17:27+09:00</lastmod>
+    <lastmod>2024-01-12T04:35:40+09:00</lastmod>
+  </url><url>
+    <loc>/publication/axis_tour/</loc>
+    <lastmod>2024-01-12T04:35:40+09:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
-    <lastmod>2024-01-03T01:17:27+09:00</lastmod>
+    <lastmod>2024-01-12T04:35:40+09:00</lastmod>
+  </url><url>
+    <loc>/authors/hidetoshi-shimodaira/</loc>
+    <lastmod>2024-01-12T04:35:40+09:00</lastmod>
+  </url><url>
+    <loc>/authors/hiroaki-yamagiwa/</loc>
+    <lastmod>2024-01-12T04:35:40+09:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2024-01-12T04:35:40+09:00</lastmod>
+  </url><url>
+    <loc>/tags/ica/</loc>
+    <lastmod>2024-01-12T04:35:40+09:00</lastmod>
+  </url><url>
+    <loc>/tags/nlp/</loc>
+    <lastmod>2024-01-12T04:35:40+09:00</lastmod>
+  </url><url>
+    <loc>/categories/preprint/</loc>
+    <lastmod>2024-01-12T04:35:40+09:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2024-01-12T04:35:40+09:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2024-01-12T04:35:40+09:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-01-12T04:35:40+09:00</lastmod>
+  </url><url>
+    <loc>/authors/yusuke-takase/</loc>
+    <lastmod>2024-01-12T04:35:40+09:00</lastmod>
   </url><url>
     <loc>/tags/cv/</loc>
     <lastmod>2024-01-03T01:17:27+09:00</lastmod>
@@ -17,19 +50,7 @@
     <loc>/tags/edge-detection/</loc>
     <lastmod>2024-01-03T01:17:27+09:00</lastmod>
   </url><url>
-    <loc>/authors/hiroaki-yamagiwa/</loc>
-    <lastmod>2024-01-03T01:17:27+09:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2024-01-03T01:17:27+09:00</lastmod>
-  </url><url>
     <loc>/authors/hiroyuki-kambe/</loc>
-    <lastmod>2024-01-03T01:17:27+09:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2024-01-03T01:17:27+09:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
     <lastmod>2024-01-03T01:17:27+09:00</lastmod>
   </url><url>
     <loc>/authors/ryosuke-nakamoto/</loc>
@@ -38,13 +59,7 @@
     <loc>/tags/sam/</loc>
     <lastmod>2024-01-03T01:17:27+09:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2024-01-03T01:17:27+09:00</lastmod>
-  </url><url>
     <loc>/categories/wacv2024/</loc>
-    <lastmod>2024-01-03T01:17:27+09:00</lastmod>
-  </url><url>
-    <loc>/authors/yusuke-takase/</loc>
     <lastmod>2024-01-03T01:17:27+09:00</lastmod>
   </url><url>
     <loc>/publication/scesame/</loc>
@@ -56,16 +71,7 @@
     <loc>/categories/emnlp2023/</loc>
     <lastmod>2023-12-06T00:00:01+09:00</lastmod>
   </url><url>
-    <loc>/authors/hidetoshi-shimodaira/</loc>
-    <lastmod>2023-12-06T00:00:01+09:00</lastmod>
-  </url><url>
-    <loc>/tags/ica/</loc>
-    <lastmod>2023-12-06T00:00:01+09:00</lastmod>
-  </url><url>
     <loc>/authors/momose-oyama/</loc>
-    <lastmod>2023-12-06T00:00:01+09:00</lastmod>
-  </url><url>
-    <loc>/tags/nlp/</loc>
     <lastmod>2023-12-06T00:00:01+09:00</lastmod>
   </url><url>
     <loc>/publication/wsmd/</loc>

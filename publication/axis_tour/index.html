@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Measuring the semantic similarity between two sentences is still an important task. The word mover&#39;s distance (WMD) computes the similarity via the optimal alignment between the sets of word embeddings. However, WMD does not utilize word order, making it challenging to distinguish sentences with significant overlaps of similar words, even if they are semantically very different. Here, we attempt to improve WMD by incorporating the sentence structure represented by BERT&#39;s self-attention matrix (SAM). The proposed method is based on the Fused Gromov-Wasserstein distance, which simultaneously considers the similarity of the word embedding and the SAM for calculating the optimal transport between two sentences. Experiments demonstrate the proposed method enhances WMD and its variants in paraphrase identification with near-equivalent performance in semantic textual similarity. Our code is available at https://github.com/ymgw55/WSMD.">
+  <meta name="description" content="Word embedding is one of the most important components in natural language processing, but interpreting high-dimensional embeddings remains a challenging problem. To address this problem, Independent Component Analysis (ICA) is identified as an effective solution. ICA-transformed word embeddings reveal interpretable semantic axes; however, the order of these axes are arbitrary. In this study, we focus on this property and propose a novel method, Axis Tour, which optimizes the order of the axes. Inspired by Word Tour, a one-dimensional word embedding method, we aim to improve the clarity of the word embedding space by maximizing the semantic continuity of the axes. Furthermore, we show through experiments on downstream tasks that Axis Tour constructs better low-dimensional embeddings compared to both PCA and ICA.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/publication/wsmd/">
+  <link rel="alternate" hreflang="en-us" href="/publication/axis_tour/">
 
   
 
@@ -95,7 +95,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/publication/wsmd/">
+  <link rel="canonical" href="/publication/axis_tour/">
 
   
   
@@ -107,15 +107,15 @@
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Hiroaki Yamagiwa">
-  <meta property="og:url" content="/publication/wsmd/">
-  <meta property="og:title" content="Improving word mover&#39;s distance by leveraging self-attention matrix | Hiroaki Yamagiwa">
-  <meta property="og:description" content="Measuring the semantic similarity between two sentences is still an important task. The word mover&#39;s distance (WMD) computes the similarity via the optimal alignment between the sets of word embeddings. However, WMD does not utilize word order, making it challenging to distinguish sentences with significant overlaps of similar words, even if they are semantically very different. Here, we attempt to improve WMD by incorporating the sentence structure represented by BERT&#39;s self-attention matrix (SAM). The proposed method is based on the Fused Gromov-Wasserstein distance, which simultaneously considers the similarity of the word embedding and the SAM for calculating the optimal transport between two sentences. Experiments demonstrate the proposed method enhances WMD and its variants in paraphrase identification with near-equivalent performance in semantic textual similarity. Our code is available at https://github.com/ymgw55/WSMD."><meta property="og:image" content="/publication/wsmd/featured.png">
-  <meta property="twitter:image" content="/publication/wsmd/featured.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="/publication/axis_tour/">
+  <meta property="og:title" content="Axis Tour: Word Tour Determines the Order of Axes in ICA-transformed Embeddings | Hiroaki Yamagiwa">
+  <meta property="og:description" content="Word embedding is one of the most important components in natural language processing, but interpreting high-dimensional embeddings remains a challenging problem. To address this problem, Independent Component Analysis (ICA) is identified as an effective solution. ICA-transformed word embeddings reveal interpretable semantic axes; however, the order of these axes are arbitrary. In this study, we focus on this property and propose a novel method, Axis Tour, which optimizes the order of the axes. Inspired by Word Tour, a one-dimensional word embedding method, we aim to improve the clarity of the word embedding space by maximizing the semantic continuity of the axes. Furthermore, we show through experiments on downstream tasks that Axis Tour constructs better low-dimensional embeddings compared to both PCA and ICA."><meta property="og:image" content="/publication/axis_tour/featured.png">
+  <meta property="twitter:image" content="/publication/axis_tour/featured.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2022-11-14T16:10:19&#43;09:00">
+      <meta property="article:published_time" content="2024-01-12T04:35:40&#43;09:00">
     
-    <meta property="article:modified_time" content="2023-12-06T00:00:00&#43;09:00">
+    <meta property="article:modified_time" content="2024-01-12T04:35:40&#43;09:00">
   
 
   
@@ -148,16 +148,16 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "/publication/wsmd/"
+    "@id": "/publication/axis_tour/"
   },
-  "headline": "Improving word mover's distance by leveraging self-attention matrix",
+  "headline": "Axis Tour: Word Tour Determines the Order of Axes in ICA-transformed Embeddings",
   
   "image": [
-    "/publication/wsmd/featured.png"
+    "/publication/axis_tour/featured.png"
   ],
   
-  "datePublished": "2022-11-14T16:10:19+09:00",
-  "dateModified": "2023-12-06T00:00:00+09:00",
+  "datePublished": "2024-01-12T04:35:40+09:00",
+  "dateModified": "2024-01-12T04:35:40+09:00",
   
   "publisher": {
     "@type": "Organization",
@@ -167,7 +167,7 @@
       "url": "/img/icon-512.png"
     }
   },
-  "description": "Measuring the semantic similarity between two sentences is still an important task. The word mover's distance (WMD) computes the similarity via the optimal alignment between the sets of word embeddings. However, WMD does not utilize word order, making it challenging to distinguish sentences with significant overlaps of similar words, even if they are semantically very different. Here, we attempt to improve WMD by incorporating the sentence structure represented by BERT's self-attention matrix (SAM). The proposed method is based on the Fused Gromov-Wasserstein distance, which simultaneously considers the similarity of the word embedding and the SAM for calculating the optimal transport between two sentences. Experiments demonstrate the proposed method enhances WMD and its variants in paraphrase identification with near-equivalent performance in semantic textual similarity. Our code is available at https://github.com/ymgw55/WSMD."
+  "description": "Word embedding is one of the most important components in natural language processing, but interpreting high-dimensional embeddings remains a challenging problem. To address this problem, Independent Component Analysis (ICA) is identified as an effective solution. ICA-transformed word embeddings reveal interpretable semantic axes; however, the order of these axes are arbitrary. In this study, we focus on this property and propose a novel method, Axis Tour, which optimizes the order of the axes. Inspired by Word Tour, a one-dimensional word embedding method, we aim to improve the clarity of the word embedding space by maximizing the semantic continuity of the axes. Furthermore, we show through experiments on downstream tasks that Axis Tour constructs better low-dimensional embeddings compared to both PCA and ICA."
 }
 </script>
 
@@ -185,7 +185,7 @@
 
 
 
-  <title>Improving word mover&#39;s distance by leveraging self-attention matrix | Hiroaki Yamagiwa</title>
+  <title>Axis Tour: Word Tour Determines the Order of Axes in ICA-transformed Embeddings | Hiroaki Yamagiwa</title>
 
 </head>
 
@@ -476,7 +476,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>Improving word mover&#39;s distance by leveraging self-attention matrix</h1>
+  <h1>Axis Tour: Word Tour Determines the Order of Axes in ICA-transformed Embeddings</h1>
 
   
 
@@ -495,7 +495,7 @@
 
 
 
-  <span><a href="/authors/hiroaki-yamagiwa/">Hiroaki Yamagiwa</a></span>, <span><a href="/authors/sho-yokoi/">Sho Yokoi</a></span>, <span><a href="/authors/hidetoshi-shimodaira/">Hidetoshi Shimodaira</a></span>
+  <span><a href="/authors/hiroaki-yamagiwa/">Hiroaki Yamagiwa</a></span>, <span><a href="/authors/yusuke-takase/">Yusuke Takase</a></span>, <span><a href="/authors/hidetoshi-shimodaira/">Hidetoshi Shimodaira</a></span>
 
   </div>
   
@@ -507,7 +507,7 @@
     
       
     
-    December 2023
+    January 2024
   </span>
   
 
@@ -523,7 +523,7 @@
   
   <span class="middot-divider"></span>
   <span class="article-categories">
-    <i class="fas fa-folder mr-1"></i><a href="/categories/emnlp2023/">EMNLP2023</a></span>
+    <i class="fas fa-folder mr-1"></i><a href="/categories/preprint/">preprint</a></span>
   
 
   
@@ -588,97 +588,11 @@
   
     
   
-  <a class="btn btn-outline-primary my-1 mr-1" href="https://aclanthology.org/2023.findings-emnlp.746/" target="_blank" rel="noopener">
-    
-    paper
-  </a>
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2211.06229" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2401.06112" target="_blank" rel="noopener">
     
     arXiv
   </a>
 
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1" href="https://openreview.net/forum?id=JMbJeMTFos" target="_blank" rel="noopener">
-    
-    OpenReview
-  </a>
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/ymgw55/WSMD" target="_blank" rel="noopener">
-    
-    code
-  </a>
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-    
-      
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1" href="/publication/wsmd/poster.pdf" >
-    
-    poster
-  </a>
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-    
-      
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1" href="/publication/wsmd/slides.pdf" >
-    
-    slides
-  </a>
-
 
 </div>
 
@@ -686,9 +600,9 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 405px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 655px;">
   <div style="position: relative">
-    <img src="/publication/wsmd/featured_hu0262bb58529b6b563d948b7aaf8f5623_153874_720x0_resize_lanczos_3.png" alt="" class="featured-image">
+    <img src="/publication/axis_tour/featured_hu4e6406b99edec88950abdab6b20456f4_1213896_720x0_resize_lanczos_3.png" alt="" class="featured-image">
     
   </div>
 </div>
@@ -699,23 +613,11 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Measuring the semantic similarity between two sentences is still an important task. The word mover&rsquo;s distance (WMD) computes the similarity via the optimal alignment between the sets of word embeddings. However, WMD does not utilize word order, making it challenging to distinguish sentences with significant overlaps of similar words, even if they are semantically very different. Here, we attempt to improve WMD by incorporating the sentence structure represented by BERT&rsquo;s self-attention matrix (SAM). The proposed method is based on the Fused Gromov-Wasserstein distance, which simultaneously considers the similarity of the word embedding and the SAM for calculating the optimal transport between two sentences. Experiments demonstrate the proposed method enhances WMD and its variants in paraphrase identification with near-equivalent performance in semantic textual similarity. Our code is available at <a href="https://github.com/ymgw55/WSMD">https://github.com/ymgw55/WSMD</a>.</p>
+    <p class="pub-abstract">Word embedding is one of the most important components in natural language processing, but interpreting high-dimensional embeddings remains a challenging problem. To address this problem, Independent Component Analysis (ICA) is identified as an effective solution. ICA-transformed word embeddings reveal interpretable semantic axes; however, the order of these axes are arbitrary. In this study, we focus on this property and propose a novel method, Axis Tour, which optimizes the order of the axes. Inspired by Word Tour, a one-dimensional word embedding method, we aim to improve the clarity of the word embedding space by maximizing the semantic continuity of the axes. Furthermore, we show through experiments on downstream tasks that Axis Tour constructs better low-dimensional embeddings compared to both PCA and ICA.</p>
     
 
     
 
-    
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">Findings of the Association for Computational Linguistics: EMNLP 2023</div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
     
 
     <div class="space-below"></div>
@@ -728,7 +630,7 @@
   
   <a class="badge badge-light" href="/tags/nlp/">NLP</a>
   
-  <a class="badge badge-light" href="/tags/ot/">OT</a>
+  <a class="badge badge-light" href="/tags/ica/">ICA</a>
   
 </div>
 

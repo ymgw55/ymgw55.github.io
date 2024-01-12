@@ -5,12 +5,28 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 03 Jan 2024 01:17:27 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 12 Jan 2024 04:35:40 +0900</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>ICA</title>
+      <link>/tags/ica/</link>
+      <pubDate>Fri, 12 Jan 2024 04:35:40 +0900</pubDate>
+      <guid>/tags/ica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLP</title>
+      <link>/tags/nlp/</link>
+      <pubDate>Fri, 12 Jan 2024 04:35:40 +0900</pubDate>
+      <guid>/tags/nlp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CV</title>
@@ -33,22 +49,6 @@
       <link>/tags/sam/</link>
       <pubDate>Wed, 03 Jan 2024 01:17:27 +0900</pubDate>
       <guid>/tags/sam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ICA</title>
-      <link>/tags/ica/</link>
-      <pubDate>Wed, 06 Dec 2023 00:00:01 +0900</pubDate>
-      <guid>/tags/ica/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NLP</title>
-      <link>/tags/nlp/</link>
-      <pubDate>Wed, 06 Dec 2023 00:00:01 +0900</pubDate>
-      <guid>/tags/nlp/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,20 @@
     <link>/authors/hiroaki-yamagiwa/</link>
       <atom:link href="/authors/hiroaki-yamagiwa/index.xml" rel="self" type="application/rss+xml" />
     <description>Hiroaki Yamagiwa</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 03 Jan 2024 01:17:27 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 12 Jan 2024 04:35:40 +0900</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Hiroaki Yamagiwa</title>
       <link>/authors/hiroaki-yamagiwa/</link>
     </image>
+    
+    <item>
+      <title>Axis Tour: Word Tour Determines the Order of Axes in ICA-transformed Embeddings</title>
+      <link>/publication/axis_tour/</link>
+      <pubDate>Fri, 12 Jan 2024 04:35:40 +0900</pubDate>
+      <guid>/publication/axis_tour/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Zero-Shot Edge Detection with SCESAME: Spectral Clustering-based Ensemble for Segment Anything Model Estimation</title>
