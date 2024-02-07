@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Hiroaki Yamagiwa</title>
-    <link>/talk/</link>
-      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
+    <title>下平 英寿 | Hiroaki Yamagiwa</title>
+    <link>/authors/%E4%B8%8B%E5%B9%B3-%E8%8B%B1%E5%AF%BF/</link>
+      <atom:link href="/authors/%E4%B8%8B%E5%B9%B3-%E8%8B%B1%E5%AF%BF/index.xml" rel="self" type="application/rss+xml" />
+    <description>下平 英寿</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 Mar 2024 09:30:00 +0900</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>/talk/</link>
+      <title>下平 英寿</title>
+      <link>/authors/%E4%B8%8B%E5%B9%B3-%E8%8B%B1%E5%AF%BF/</link>
     </image>
     
     <item>

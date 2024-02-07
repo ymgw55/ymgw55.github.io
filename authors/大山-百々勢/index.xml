@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Hiroaki Yamagiwa</title>
-    <link>/talk/</link>
-      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
+    <title>大山 百々勢* | Hiroaki Yamagiwa</title>
+    <link>/authors/%E5%A4%A7%E5%B1%B1-%E7%99%BE%E3%80%85%E5%8B%A2/</link>
+      <atom:link href="/authors/%E5%A4%A7%E5%B1%B1-%E7%99%BE%E3%80%85%E5%8B%A2/index.xml" rel="self" type="application/rss+xml" />
+    <description>大山 百々勢*</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 Mar 2024 09:30:00 +0900</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>/talk/</link>
+      <title>大山 百々勢*</title>
+      <link>/authors/%E5%A4%A7%E5%B1%B1-%E7%99%BE%E3%80%85%E5%8B%A2/</link>
     </image>
     
     <item>
@@ -29,14 +29,6 @@
     </item>
     
     <item>
-      <title>高性能な文類似度を用いた事前学習モデルの対照学習</title>
-      <link>/talk/yans2023_yamagiwa/</link>
-      <pubDate>Thu, 31 Aug 2023 14:00:00 +0900</pubDate>
-      <guid>/talk/yans2023_yamagiwa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>内部表現の幾何に基づく言語モデルの解釈</title>
       <link>/talk/yans2023_oyama/</link>
       <pubDate>Thu, 31 Aug 2023 11:40:00 +0900</pubDate>
@@ -49,30 +41,6 @@
       <link>/talk/ibisml50/</link>
       <pubDate>Fri, 30 Jun 2023 14:20:00 +0900</pubDate>
       <guid>/talk/ibisml50/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Self-Attention 行列を用いた最適輸送距離に基づく言い換え識別</title>
-      <link>/talk/jfssa2022/</link>
-      <pubDate>Sun, 04 Sep 2022 14:40:00 +0900</pubDate>
-      <guid>/talk/jfssa2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BERTのパラメータを用いた最適輸送距離に基づく言い換え識別の性能評価</title>
-      <link>/talk/ibis2021/</link>
-      <pubDate>Wed, 10 Nov 2021 16:00:00 +0900</pubDate>
-      <guid>/talk/ibis2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Self-AttentionとFused Gromov–Wasserstein距離に基づく文類似度計算</title>
-      <link>/talk/yans2021/</link>
-      <pubDate>Tue, 31 Aug 2021 15:30:00 +0900</pubDate>
-      <guid>/talk/yans2021/</guid>
       <description></description>
     </item>
     

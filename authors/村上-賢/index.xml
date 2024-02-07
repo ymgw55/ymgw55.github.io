@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>村上 賢 | Hiroaki Yamagiwa</title>
+    <link>/authors/%E6%9D%91%E4%B8%8A-%E8%B3%A2/</link>
+      <atom:link href="/authors/%E6%9D%91%E4%B8%8A-%E8%B3%A2/index.xml" rel="self" type="application/rss+xml" />
+    <description>村上 賢</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 30 Jun 2023 14:20:00 +0900</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>村上 賢</title>
+      <link>/authors/%E6%9D%91%E4%B8%8A-%E8%B3%A2/</link>
+    </image>
+    
+    <item>
+      <title>生物学的パスウェイを用いたBioConceptVecにおけるアナロジータスク</title>
+      <link>/talk/ibisml50/</link>
+      <pubDate>Fri, 30 Jun 2023 14:20:00 +0900</pubDate>
+      <guid>/talk/ibisml50/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

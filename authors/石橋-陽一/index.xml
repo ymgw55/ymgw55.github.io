@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>石橋 陽一 | Hiroaki Yamagiwa</title>
+    <link>/authors/%E7%9F%B3%E6%A9%8B-%E9%99%BD%E4%B8%80/</link>
+      <atom:link href="/authors/%E7%9F%B3%E6%A9%8B-%E9%99%BD%E4%B8%80/index.xml" rel="self" type="application/rss+xml" />
+    <description>石橋 陽一</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 31 Aug 2023 14:00:00 +0900</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>石橋 陽一</title>
+      <link>/authors/%E7%9F%B3%E6%A9%8B-%E9%99%BD%E4%B8%80/</link>
+    </image>
+    
+    <item>
+      <title>高性能な文類似度を用いた事前学習モデルの対照学習</title>
+      <link>/talk/yans2023_yamagiwa/</link>
+      <pubDate>Thu, 31 Aug 2023 14:00:00 +0900</pubDate>
+      <guid>/talk/yans2023_yamagiwa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>内部表現の幾何に基づく言語モデルの解釈</title>
+      <link>/talk/yans2023_oyama/</link>
+      <pubDate>Thu, 31 Aug 2023 11:40:00 +0900</pubDate>
+      <guid>/talk/yans2023_oyama/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
