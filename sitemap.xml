@@ -2,13 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/categories/2024/</loc>
+    <lastmod>2024-03-13T09:30:00+09:00</lastmod>
+  </url><url>
     <loc>/authors/</loc>
+    <lastmod>2024-03-13T09:30:00+09:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2024-03-13T09:30:00+09:00</lastmod>
+  </url><url>
+    <loc>/tags/embedding/</loc>
     <lastmod>2024-03-13T09:30:00+09:00</lastmod>
   </url><url>
     <loc>/</loc>
     <lastmod>2024-03-13T09:30:00+09:00</lastmod>
   </url><url>
+    <loc>/tags/ica/</loc>
+    <lastmod>2024-03-13T09:30:00+09:00</lastmod>
+  </url><url>
+    <loc>/categories/nlp/</loc>
+    <lastmod>2024-03-13T09:30:00+09:00</lastmod>
+  </url><url>
+    <loc>/categories/nlp2024/</loc>
+    <lastmod>2024-03-13T09:30:00+09:00</lastmod>
+  </url><url>
     <loc>/talk/</loc>
+    <lastmod>2024-03-13T09:30:00+09:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
     <lastmod>2024-03-13T09:30:00+09:00</lastmod>
   </url><url>
     <loc>/authors/%E4%B8%8B%E5%B9%B3-%E8%8B%B1%E5%AF%BF/</loc>
@@ -23,6 +44,15 @@
     <loc>/authors/%E5%B1%B1%E9%9A%9B-%E5%AE%8F%E6%98%8E/</loc>
     <lastmod>2024-03-13T09:30:00+09:00</lastmod>
   </url><url>
+    <loc>/tags/cross-lingual/</loc>
+    <lastmod>2024-02-21T14:00:00+09:00</lastmod>
+  </url><url>
+    <loc>/categories/ict/</loc>
+    <lastmod>2024-02-21T14:00:00+09:00</lastmod>
+  </url><url>
+    <loc>/categories/ict18/</loc>
+    <lastmod>2024-02-21T14:00:00+09:00</lastmod>
+  </url><url>
     <loc>/talk/ict18/</loc>
     <lastmod>2024-02-21T14:00:00+09:00</lastmod>
   </url><url>
@@ -32,19 +62,10 @@
     <loc>/publication/axis_tour/</loc>
     <lastmod>2024-01-12T04:35:40+09:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2024-01-12T04:35:40+09:00</lastmod>
-  </url><url>
     <loc>/authors/hidetoshi-shimodaira/</loc>
     <lastmod>2024-01-12T04:35:40+09:00</lastmod>
   </url><url>
     <loc>/authors/hiroaki-yamagiwa/</loc>
-    <lastmod>2024-01-12T04:35:40+09:00</lastmod>
-  </url><url>
-    <loc>/tags/ica/</loc>
-    <lastmod>2024-01-12T04:35:40+09:00</lastmod>
-  </url><url>
-    <loc>/tags/nlp/</loc>
     <lastmod>2024-01-12T04:35:40+09:00</lastmod>
   </url><url>
     <loc>/categories/preprint/</loc>
@@ -56,14 +77,8 @@
     <loc>/publication/</loc>
     <lastmod>2024-01-12T04:35:40+09:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2024-01-12T04:35:40+09:00</lastmod>
-  </url><url>
     <loc>/authors/yusuke-takase/</loc>
     <lastmod>2024-01-12T04:35:40+09:00</lastmod>
-  </url><url>
-    <loc>/tags/cv/</loc>
-    <lastmod>2024-01-03T01:17:27+09:00</lastmod>
   </url><url>
     <loc>/tags/edge-detection/</loc>
     <lastmod>2024-01-03T01:17:27+09:00</lastmod>
@@ -77,13 +92,25 @@
     <loc>/tags/sam/</loc>
     <lastmod>2024-01-03T01:17:27+09:00</lastmod>
   </url><url>
+    <loc>/categories/wacv/</loc>
+    <lastmod>2024-01-03T01:17:27+09:00</lastmod>
+  </url><url>
     <loc>/categories/wacv2024/</loc>
+    <lastmod>2024-01-03T01:17:27+09:00</lastmod>
+  </url><url>
+    <loc>/tags/zero-shot/</loc>
     <lastmod>2024-01-03T01:17:27+09:00</lastmod>
   </url><url>
     <loc>/publication/scesame/</loc>
     <lastmod>2024-01-03T01:17:27+09:00</lastmod>
   </url><url>
+    <loc>/categories/2023/</loc>
+    <lastmod>2023-12-06T00:00:01+09:00</lastmod>
+  </url><url>
     <loc>/publication/universal_ica/</loc>
+    <lastmod>2023-12-06T00:00:01+09:00</lastmod>
+  </url><url>
+    <loc>/categories/emnlp/</loc>
     <lastmod>2023-12-06T00:00:01+09:00</lastmod>
   </url><url>
     <loc>/categories/emnlp2023/</loc>
@@ -91,6 +118,15 @@
   </url><url>
     <loc>/authors/momose-oyama/</loc>
     <lastmod>2023-12-06T00:00:01+09:00</lastmod>
+  </url><url>
+    <loc>/categories/findings/</loc>
+    <lastmod>2023-12-06T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>/tags/fused-gromov-wasserstein/</loc>
+    <lastmod>2023-12-06T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>/tags/gromov-wasserstein/</loc>
+    <lastmod>2023-12-06T00:00:00+09:00</lastmod>
   </url><url>
     <loc>/publication/wsmd/</loc>
     <lastmod>2023-12-06T00:00:00+09:00</lastmod>
@@ -101,8 +137,26 @@
     <loc>/authors/sho-yokoi/</loc>
     <lastmod>2023-12-06T00:00:00+09:00</lastmod>
   </url><url>
+    <loc>/tags/wmd/</loc>
+    <lastmod>2023-12-06T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>/categories/ibis/</loc>
+    <lastmod>2023-10-31T14:10:00+09:00</lastmod>
+  </url><url>
+    <loc>/categories/ibis2023/</loc>
+    <lastmod>2023-10-31T14:10:00+09:00</lastmod>
+  </url><url>
     <loc>/talk/ibis2023/</loc>
     <lastmod>2023-10-31T14:10:00+09:00</lastmod>
+  </url><url>
+    <loc>/tags/contrastive-learning/</loc>
+    <lastmod>2023-08-31T14:00:00+09:00</lastmod>
+  </url><url>
+    <loc>/categories/yans/</loc>
+    <lastmod>2023-08-31T14:00:00+09:00</lastmod>
+  </url><url>
+    <loc>/categories/yans2023/</loc>
+    <lastmod>2023-08-31T14:00:00+09:00</lastmod>
   </url><url>
     <loc>/authors/%E7%9F%B3%E6%A9%8B-%E9%99%BD%E4%B8%80/</loc>
     <lastmod>2023-08-31T14:00:00+09:00</lastmod>
@@ -110,8 +164,23 @@
     <loc>/talk/yans2023_yamagiwa/</loc>
     <lastmod>2023-08-31T14:00:00+09:00</lastmod>
   </url><url>
+    <loc>/tags/llm/</loc>
+    <lastmod>2023-08-31T11:40:00+09:00</lastmod>
+  </url><url>
     <loc>/talk/yans2023_oyama/</loc>
     <lastmod>2023-08-31T11:40:00+09:00</lastmod>
+  </url><url>
+    <loc>/tags/analogy/</loc>
+    <lastmod>2023-06-30T14:20:00+09:00</lastmod>
+  </url><url>
+    <loc>/tags/bioinformatics/</loc>
+    <lastmod>2023-06-30T14:20:00+09:00</lastmod>
+  </url><url>
+    <loc>/categories/ibisml/</loc>
+    <lastmod>2023-06-30T14:20:00+09:00</lastmod>
+  </url><url>
+    <loc>/categories/ibisml50/</loc>
+    <lastmod>2023-06-30T14:20:00+09:00</lastmod>
   </url><url>
     <loc>/authors/%E5%B2%A1%E7%94%B0-%E7%9C%9E%E9%87%8C%E5%AD%90/</loc>
     <lastmod>2023-06-30T14:20:00+09:00</lastmod>
@@ -134,16 +203,34 @@
     <loc>/project/</loc>
     <lastmod>2023-04-09T01:52:30+09:00</lastmod>
   </url><url>
+    <loc>/categories/2022/</loc>
+    <lastmod>2022-09-04T14:40:00+09:00</lastmod>
+  </url><url>
+    <loc>/categories/jfssa/</loc>
+    <lastmod>2022-09-04T14:40:00+09:00</lastmod>
+  </url><url>
+    <loc>/categories/jfssa2022/</loc>
+    <lastmod>2022-09-04T14:40:00+09:00</lastmod>
+  </url><url>
     <loc>/talk/jfssa2022/</loc>
     <lastmod>2022-09-04T14:40:00+09:00</lastmod>
   </url><url>
     <loc>/authors/%E6%A8%AA%E4%BA%95-%E7%A5%A5/</loc>
     <lastmod>2022-09-04T14:40:00+09:00</lastmod>
   </url><url>
+    <loc>/categories/2021/</loc>
+    <lastmod>2021-11-10T16:00:00+09:00</lastmod>
+  </url><url>
     <loc>/talk/ibis2021/</loc>
     <lastmod>2021-11-10T16:00:00+09:00</lastmod>
   </url><url>
+    <loc>/categories/ibis2021/</loc>
+    <lastmod>2021-11-10T16:00:00+09:00</lastmod>
+  </url><url>
     <loc>/talk/yans2021/</loc>
+    <lastmod>2021-08-31T15:30:00+09:00</lastmod>
+  </url><url>
+    <loc>/categories/yans2021/</loc>
     <lastmod>2021-08-31T15:30:00+09:00</lastmod>
   </url><url>
     <loc>/authors/admin/</loc>

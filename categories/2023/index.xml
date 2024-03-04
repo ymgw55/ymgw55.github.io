@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2023 | Hiroaki Yamagiwa</title>
+    <link>/categories/2023/</link>
+      <atom:link href="/categories/2023/index.xml" rel="self" type="application/rss+xml" />
+    <description>2023</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 06 Dec 2023 00:00:01 +0900</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>2023</title>
+      <link>/categories/2023/</link>
+    </image>
+    
+    <item>
+      <title>Discovering Universal Geometry in Embeddings with ICA</title>
+      <link>/publication/universal_ica/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:01 +0900</pubDate>
+      <guid>/publication/universal_ica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving word mover&#39;s distance by leveraging self-attention matrix</title>
+      <link>/publication/wsmd/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0900</pubDate>
+      <guid>/publication/wsmd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>独立成分に基づく埋め込み表現の解釈と普遍的形状の解明</title>
+      <link>/talk/ibis2023/</link>
+      <pubDate>Tue, 31 Oct 2023 14:10:00 +0900</pubDate>
+      <guid>/talk/ibis2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>高性能な文類似度を用いた事前学習モデルの対照学習</title>
+      <link>/talk/yans2023_yamagiwa/</link>
+      <pubDate>Thu, 31 Aug 2023 14:00:00 +0900</pubDate>
+      <guid>/talk/yans2023_yamagiwa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>内部表現の幾何に基づく言語モデルの解釈</title>
+      <link>/talk/yans2023_oyama/</link>
+      <pubDate>Thu, 31 Aug 2023 11:40:00 +0900</pubDate>
+      <guid>/talk/yans2023_oyama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>生物学的パスウェイを用いたBioConceptVecにおけるアナロジータスク</title>
+      <link>/talk/ibisml50/</link>
+      <pubDate>Fri, 30 Jun 2023 14:20:00 +0900</pubDate>
+      <guid>/talk/ibisml50/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Embedding | Hiroaki Yamagiwa</title>
+    <link>/tags/embedding/</link>
+      <atom:link href="/tags/embedding/index.xml" rel="self" type="application/rss+xml" />
+    <description>Embedding</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 Mar 2024 09:30:00 +0900</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Embedding</title>
+      <link>/tags/embedding/</link>
+    </image>
+    
+    <item>
+      <title>依存関係の大きさは意味の関連性を表す</title>
+      <link>/talk/nlp2024/</link>
+      <pubDate>Wed, 13 Mar 2024 09:30:00 +0900</pubDate>
+      <guid>/talk/nlp2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>独立成分分析は埋め込み空間の普遍的な幾何学的形状を明らかにする</title>
+      <link>/talk/ict18/</link>
+      <pubDate>Wed, 21 Feb 2024 14:00:00 +0900</pubDate>
+      <guid>/talk/ict18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Axis Tour: Word Tour Determines the Order of Axes in ICA-transformed Embeddings</title>
+      <link>/publication/axis_tour/</link>
+      <pubDate>Fri, 12 Jan 2024 04:35:40 +0900</pubDate>
+      <guid>/publication/axis_tour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovering Universal Geometry in Embeddings with ICA</title>
+      <link>/publication/universal_ica/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:01 +0900</pubDate>
+      <guid>/publication/universal_ica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>独立成分に基づく埋め込み表現の解釈と普遍的形状の解明</title>
+      <link>/talk/ibis2023/</link>
+      <pubDate>Tue, 31 Oct 2023 14:10:00 +0900</pubDate>
+      <guid>/talk/ibis2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>内部表現の幾何に基づく言語モデルの解釈</title>
+      <link>/talk/yans2023_oyama/</link>
+      <pubDate>Thu, 31 Aug 2023 11:40:00 +0900</pubDate>
+      <guid>/talk/yans2023_oyama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>生物学的パスウェイを用いたBioConceptVecにおけるアナロジータスク</title>
+      <link>/talk/ibisml50/</link>
+      <pubDate>Fri, 30 Jun 2023 14:20:00 +0900</pubDate>
+      <guid>/talk/ibisml50/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

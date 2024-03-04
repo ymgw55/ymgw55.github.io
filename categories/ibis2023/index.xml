@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IBIS2023 | Hiroaki Yamagiwa</title>
+    <link>/categories/ibis2023/</link>
+      <atom:link href="/categories/ibis2023/index.xml" rel="self" type="application/rss+xml" />
+    <description>IBIS2023</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 31 Oct 2023 14:10:00 +0900</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>IBIS2023</title>
+      <link>/categories/ibis2023/</link>
+    </image>
+    
+    <item>
+      <title>独立成分に基づく埋め込み表現の解釈と普遍的形状の解明</title>
+      <link>/talk/ibis2023/</link>
+      <pubDate>Tue, 31 Oct 2023 14:10:00 +0900</pubDate>
+      <guid>/talk/ibis2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

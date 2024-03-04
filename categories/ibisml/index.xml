@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IBISML | Hiroaki Yamagiwa</title>
+    <link>/categories/ibisml/</link>
+      <atom:link href="/categories/ibisml/index.xml" rel="self" type="application/rss+xml" />
+    <description>IBISML</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 30 Jun 2023 14:20:00 +0900</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>IBISML</title>
+      <link>/categories/ibisml/</link>
+    </image>
+    
+    <item>
+      <title>生物学的パスウェイを用いたBioConceptVecにおけるアナロジータスク</title>
+      <link>/talk/ibisml50/</link>
+      <pubDate>Fri, 30 Jun 2023 14:20:00 +0900</pubDate>
+      <guid>/talk/ibisml50/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>/categories/</link>
       <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 12 Jan 2024 04:35:40 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 Mar 2024 09:30:00 +0900</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Categories</title>
@@ -13,10 +13,58 @@
     </image>
     
     <item>
+      <title>2024</title>
+      <link>/categories/2024/</link>
+      <pubDate>Wed, 13 Mar 2024 09:30:00 +0900</pubDate>
+      <guid>/categories/2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLP</title>
+      <link>/categories/nlp/</link>
+      <pubDate>Wed, 13 Mar 2024 09:30:00 +0900</pubDate>
+      <guid>/categories/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLP2024</title>
+      <link>/categories/nlp2024/</link>
+      <pubDate>Wed, 13 Mar 2024 09:30:00 +0900</pubDate>
+      <guid>/categories/nlp2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ICT</title>
+      <link>/categories/ict/</link>
+      <pubDate>Wed, 21 Feb 2024 14:00:00 +0900</pubDate>
+      <guid>/categories/ict/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ICT18</title>
+      <link>/categories/ict18/</link>
+      <pubDate>Wed, 21 Feb 2024 14:00:00 +0900</pubDate>
+      <guid>/categories/ict18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>preprint</title>
       <link>/categories/preprint/</link>
       <pubDate>Fri, 12 Jan 2024 04:35:40 +0900</pubDate>
       <guid>/categories/preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WACV</title>
+      <link>/categories/wacv/</link>
+      <pubDate>Wed, 03 Jan 2024 01:17:27 +0900</pubDate>
+      <guid>/categories/wacv/</guid>
       <description></description>
     </item>
     
@@ -29,10 +77,130 @@
     </item>
     
     <item>
+      <title>2023</title>
+      <link>/categories/2023/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:01 +0900</pubDate>
+      <guid>/categories/2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EMNLP</title>
+      <link>/categories/emnlp/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:01 +0900</pubDate>
+      <guid>/categories/emnlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>EMNLP2023</title>
       <link>/categories/emnlp2023/</link>
       <pubDate>Wed, 06 Dec 2023 00:00:01 +0900</pubDate>
       <guid>/categories/emnlp2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Findings</title>
+      <link>/categories/findings/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0900</pubDate>
+      <guid>/categories/findings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IBIS</title>
+      <link>/categories/ibis/</link>
+      <pubDate>Tue, 31 Oct 2023 14:10:00 +0900</pubDate>
+      <guid>/categories/ibis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IBIS2023</title>
+      <link>/categories/ibis2023/</link>
+      <pubDate>Tue, 31 Oct 2023 14:10:00 +0900</pubDate>
+      <guid>/categories/ibis2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>YANS</title>
+      <link>/categories/yans/</link>
+      <pubDate>Thu, 31 Aug 2023 14:00:00 +0900</pubDate>
+      <guid>/categories/yans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>YANS2023</title>
+      <link>/categories/yans2023/</link>
+      <pubDate>Thu, 31 Aug 2023 14:00:00 +0900</pubDate>
+      <guid>/categories/yans2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IBISML</title>
+      <link>/categories/ibisml/</link>
+      <pubDate>Fri, 30 Jun 2023 14:20:00 +0900</pubDate>
+      <guid>/categories/ibisml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IBISML50</title>
+      <link>/categories/ibisml50/</link>
+      <pubDate>Fri, 30 Jun 2023 14:20:00 +0900</pubDate>
+      <guid>/categories/ibisml50/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2022</title>
+      <link>/categories/2022/</link>
+      <pubDate>Sun, 04 Sep 2022 14:40:00 +0900</pubDate>
+      <guid>/categories/2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JFSSA</title>
+      <link>/categories/jfssa/</link>
+      <pubDate>Sun, 04 Sep 2022 14:40:00 +0900</pubDate>
+      <guid>/categories/jfssa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JFSSA2022</title>
+      <link>/categories/jfssa2022/</link>
+      <pubDate>Sun, 04 Sep 2022 14:40:00 +0900</pubDate>
+      <guid>/categories/jfssa2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2021</title>
+      <link>/categories/2021/</link>
+      <pubDate>Wed, 10 Nov 2021 16:00:00 +0900</pubDate>
+      <guid>/categories/2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IBIS2021</title>
+      <link>/categories/ibis2021/</link>
+      <pubDate>Wed, 10 Nov 2021 16:00:00 +0900</pubDate>
+      <guid>/categories/ibis2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>YANS2021</title>
+      <link>/categories/yans2021/</link>
+      <pubDate>Tue, 31 Aug 2021 15:30:00 +0900</pubDate>
+      <guid>/categories/yans2021/</guid>
       <description></description>
     </item>
     

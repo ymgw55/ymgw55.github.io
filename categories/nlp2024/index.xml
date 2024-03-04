@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NLP2024 | Hiroaki Yamagiwa</title>
+    <link>/categories/nlp2024/</link>
+      <atom:link href="/categories/nlp2024/index.xml" rel="self" type="application/rss+xml" />
+    <description>NLP2024</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 Mar 2024 09:30:00 +0900</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>NLP2024</title>
+      <link>/categories/nlp2024/</link>
+    </image>
+    
+    <item>
+      <title>依存関係の大きさは意味の関連性を表す</title>
+      <link>/talk/nlp2024/</link>
+      <pubDate>Wed, 13 Mar 2024 09:30:00 +0900</pubDate>
+      <guid>/talk/nlp2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2021 | Hiroaki Yamagiwa</title>
+    <link>/categories/2021/</link>
+      <atom:link href="/categories/2021/index.xml" rel="self" type="application/rss+xml" />
+    <description>2021</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 10 Nov 2021 16:00:00 +0900</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>2021</title>
+      <link>/categories/2021/</link>
+    </image>
+    
+    <item>
+      <title>BERTのパラメータを用いた最適輸送距離に基づく言い換え識別の性能評価</title>
+      <link>/talk/ibis2021/</link>
+      <pubDate>Wed, 10 Nov 2021 16:00:00 +0900</pubDate>
+      <guid>/talk/ibis2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-AttentionとFused Gromov–Wasserstein距離に基づく文類似度計算</title>
+      <link>/talk/yans2021/</link>
+      <pubDate>Tue, 31 Aug 2021 15:30:00 +0900</pubDate>
+      <guid>/talk/yans2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

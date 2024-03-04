@@ -5,7 +5,7 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 12 Jan 2024 04:35:40 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 Mar 2024 09:30:00 +0900</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,26 +13,26 @@
     </image>
     
     <item>
+      <title>Embedding</title>
+      <link>/tags/embedding/</link>
+      <pubDate>Wed, 13 Mar 2024 09:30:00 +0900</pubDate>
+      <guid>/tags/embedding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ICA</title>
       <link>/tags/ica/</link>
-      <pubDate>Fri, 12 Jan 2024 04:35:40 +0900</pubDate>
+      <pubDate>Wed, 13 Mar 2024 09:30:00 +0900</pubDate>
       <guid>/tags/ica/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>NLP</title>
-      <link>/tags/nlp/</link>
-      <pubDate>Fri, 12 Jan 2024 04:35:40 +0900</pubDate>
-      <guid>/tags/nlp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CV</title>
-      <link>/tags/cv/</link>
-      <pubDate>Wed, 03 Jan 2024 01:17:27 +0900</pubDate>
-      <guid>/tags/cv/</guid>
+      <title>Cross-Lingual</title>
+      <link>/tags/cross-lingual/</link>
+      <pubDate>Wed, 21 Feb 2024 14:00:00 +0900</pubDate>
+      <guid>/tags/cross-lingual/</guid>
       <description></description>
     </item>
     
@@ -53,10 +53,74 @@
     </item>
     
     <item>
+      <title>Zero-Shot</title>
+      <link>/tags/zero-shot/</link>
+      <pubDate>Wed, 03 Jan 2024 01:17:27 +0900</pubDate>
+      <guid>/tags/zero-shot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fused Gromov-Wasserstein</title>
+      <link>/tags/fused-gromov-wasserstein/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0900</pubDate>
+      <guid>/tags/fused-gromov-wasserstein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gromov-Wasserstein</title>
+      <link>/tags/gromov-wasserstein/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0900</pubDate>
+      <guid>/tags/gromov-wasserstein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>OT</title>
       <link>/tags/ot/</link>
       <pubDate>Wed, 06 Dec 2023 00:00:00 +0900</pubDate>
       <guid>/tags/ot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WMD</title>
+      <link>/tags/wmd/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0900</pubDate>
+      <guid>/tags/wmd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrastive Learning</title>
+      <link>/tags/contrastive-learning/</link>
+      <pubDate>Thu, 31 Aug 2023 14:00:00 +0900</pubDate>
+      <guid>/tags/contrastive-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LLM</title>
+      <link>/tags/llm/</link>
+      <pubDate>Thu, 31 Aug 2023 11:40:00 +0900</pubDate>
+      <guid>/tags/llm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analogy</title>
+      <link>/tags/analogy/</link>
+      <pubDate>Fri, 30 Jun 2023 14:20:00 +0900</pubDate>
+      <guid>/tags/analogy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bioinformatics</title>
+      <link>/tags/bioinformatics/</link>
+      <pubDate>Fri, 30 Jun 2023 14:20:00 +0900</pubDate>
+      <guid>/tags/bioinformatics/</guid>
       <description></description>
     </item>
     

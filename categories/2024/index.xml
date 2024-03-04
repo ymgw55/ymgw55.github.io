@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2024 | Hiroaki Yamagiwa</title>
+    <link>/categories/2024/</link>
+      <atom:link href="/categories/2024/index.xml" rel="self" type="application/rss+xml" />
+    <description>2024</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 Mar 2024 09:30:00 +0900</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>2024</title>
+      <link>/categories/2024/</link>
+    </image>
+    
+    <item>
+      <title>依存関係の大きさは意味の関連性を表す</title>
+      <link>/talk/nlp2024/</link>
+      <pubDate>Wed, 13 Mar 2024 09:30:00 +0900</pubDate>
+      <guid>/talk/nlp2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>独立成分分析は埋め込み空間の普遍的な幾何学的形状を明らかにする</title>
+      <link>/talk/ict18/</link>
+      <pubDate>Wed, 21 Feb 2024 14:00:00 +0900</pubDate>
+      <guid>/talk/ict18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Axis Tour: Word Tour Determines the Order of Axes in ICA-transformed Embeddings</title>
+      <link>/publication/axis_tour/</link>
+      <pubDate>Fri, 12 Jan 2024 04:35:40 +0900</pubDate>
+      <guid>/publication/axis_tour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero-Shot Edge Detection with SCESAME: Spectral Clustering-based Ensemble for Segment Anything Model Estimation</title>
+      <link>/publication/scesame/</link>
+      <pubDate>Wed, 03 Jan 2024 01:17:27 +0900</pubDate>
+      <guid>/publication/scesame/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

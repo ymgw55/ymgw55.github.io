@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ICT18 | Hiroaki Yamagiwa</title>
+    <link>/categories/ict18/</link>
+      <atom:link href="/categories/ict18/index.xml" rel="self" type="application/rss+xml" />
+    <description>ICT18</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 21 Feb 2024 14:00:00 +0900</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>ICT18</title>
+      <link>/categories/ict18/</link>
+    </image>
+    
+    <item>
+      <title>独立成分分析は埋め込み空間の普遍的な幾何学的形状を明らかにする</title>
+      <link>/talk/ict18/</link>
+      <pubDate>Wed, 21 Feb 2024 14:00:00 +0900</pubDate>
+      <guid>/talk/ict18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WACV | Hiroaki Yamagiwa</title>
+    <link>/categories/wacv/</link>
+      <atom:link href="/categories/wacv/index.xml" rel="self" type="application/rss+xml" />
+    <description>WACV</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 03 Jan 2024 01:17:27 +0900</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>WACV</title>
+      <link>/categories/wacv/</link>
+    </image>
+    
+    <item>
+      <title>Zero-Shot Edge Detection with SCESAME: Spectral Clustering-based Ensemble for Segment Anything Model Estimation</title>
+      <link>/publication/scesame/</link>
+      <pubDate>Wed, 03 Jan 2024 01:17:27 +0900</pubDate>
+      <guid>/publication/scesame/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
