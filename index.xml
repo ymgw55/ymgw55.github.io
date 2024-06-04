@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Hiroaki Yamagiwa</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 Mar 2024 09:30:00 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jun 2024 11:23:15 +0900</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Hiroaki Yamagiwa</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>/talk/</link>
-      <pubDate>Wed, 13 Mar 2024 09:30:00 +0900</pubDate>
-      <guid>/talk/</guid>
+      <title>Publications</title>
+      <link>/publication/</link>
+      <pubDate>Tue, 04 Jun 2024 11:23:15 +0900</pubDate>
+      <guid>/publication/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>/publication/</link>
-      <pubDate>Fri, 12 Jan 2024 04:35:40 +0900</pubDate>
-      <guid>/publication/</guid>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/talk/</link>
+      <pubDate>Wed, 13 Mar 2024 09:30:00 +0900</pubDate>
+      <guid>/talk/</guid>
       <description></description>
     </item>
     

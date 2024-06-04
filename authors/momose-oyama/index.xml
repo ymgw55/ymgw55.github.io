@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Momose Oyama* | Hiroaki Yamagiwa</title>
+    <title>Momose Oyama | Hiroaki Yamagiwa</title>
     <link>/authors/momose-oyama/</link>
       <atom:link href="/authors/momose-oyama/index.xml" rel="self" type="application/rss+xml" />
-    <description>Momose Oyama*</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 06 Dec 2023 00:00:01 +0900</lastBuildDate>
+    <description>Momose Oyama</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jun 2024 11:23:15 +0900</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Momose Oyama*</title>
+      <title>Momose Oyama</title>
       <link>/authors/momose-oyama/</link>
     </image>
+    
+    <item>
+      <title>Predicting Drug-Gene Relations via Analogy Tasks with Word Embeddings</title>
+      <link>/publication/drug_gene_analogy/</link>
+      <pubDate>Tue, 04 Jun 2024 11:23:15 +0900</pubDate>
+      <guid>/publication/drug_gene_analogy/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Discovering Universal Geometry in Embeddings with ICA</title>

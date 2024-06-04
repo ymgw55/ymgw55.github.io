@@ -5,12 +5,76 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 Mar 2024 09:30:00 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jun 2024 11:23:15 +0900</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>Hidetoshi Shimodaira</title>
+      <link>/authors/hidetoshi-shimodaira/</link>
+      <pubDate>Tue, 04 Jun 2024 11:23:15 +0900</pubDate>
+      <guid>/authors/hidetoshi-shimodaira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hiroaki Yamagiwa</title>
+      <link>/authors/hiroaki-yamagiwa/</link>
+      <pubDate>Tue, 04 Jun 2024 11:23:15 +0900</pubDate>
+      <guid>/authors/hiroaki-yamagiwa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ken Murakami</title>
+      <link>/authors/ken-murakami/</link>
+      <pubDate>Tue, 04 Jun 2024 11:23:15 +0900</pubDate>
+      <guid>/authors/ken-murakami/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kiwamu Arakane</title>
+      <link>/authors/kiwamu-arakane/</link>
+      <pubDate>Tue, 04 Jun 2024 11:23:15 +0900</pubDate>
+      <guid>/authors/kiwamu-arakane/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mariko Okada</title>
+      <link>/authors/mariko-okada/</link>
+      <pubDate>Tue, 04 Jun 2024 11:23:15 +0900</pubDate>
+      <guid>/authors/mariko-okada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Momose Oyama</title>
+      <link>/authors/momose-oyama/</link>
+      <pubDate>Tue, 04 Jun 2024 11:23:15 +0900</pubDate>
+      <guid>/authors/momose-oyama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ryoma Hashimoto</title>
+      <link>/authors/ryoma-hashimoto/</link>
+      <pubDate>Tue, 04 Jun 2024 11:23:15 +0900</pubDate>
+      <guid>/authors/ryoma-hashimoto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shou Soeda</title>
+      <link>/authors/shou-soeda/</link>
+      <pubDate>Tue, 04 Jun 2024 11:23:15 +0900</pubDate>
+      <guid>/authors/shou-soeda/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>下平 英寿</title>
@@ -37,22 +101,6 @@
     </item>
     
     <item>
-      <title>Hidetoshi Shimodaira</title>
-      <link>/authors/hidetoshi-shimodaira/</link>
-      <pubDate>Fri, 12 Jan 2024 04:35:40 +0900</pubDate>
-      <guid>/authors/hidetoshi-shimodaira/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hiroaki Yamagiwa</title>
-      <link>/authors/hiroaki-yamagiwa/</link>
-      <pubDate>Fri, 12 Jan 2024 04:35:40 +0900</pubDate>
-      <guid>/authors/hiroaki-yamagiwa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Yusuke Takase</title>
       <link>/authors/yusuke-takase/</link>
       <pubDate>Fri, 12 Jan 2024 04:35:40 +0900</pubDate>
@@ -73,14 +121,6 @@
       <link>/authors/ryosuke-nakamoto/</link>
       <pubDate>Wed, 03 Jan 2024 01:17:27 +0900</pubDate>
       <guid>/authors/ryosuke-nakamoto/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Momose Oyama*</title>
-      <link>/authors/momose-oyama/</link>
-      <pubDate>Wed, 06 Dec 2023 00:00:01 +0900</pubDate>
-      <guid>/authors/momose-oyama/</guid>
       <description></description>
     </item>
     

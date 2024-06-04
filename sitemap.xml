@@ -2,20 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/publication_types/0/</loc>
+    <lastmod>2024-06-04T11:23:15+09:00</lastmod>
+  </url><url>
     <loc>/categories/2024/</loc>
-    <lastmod>2024-03-13T09:30:00+09:00</lastmod>
+    <lastmod>2024-06-04T11:23:15+09:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2024-03-13T09:30:00+09:00</lastmod>
+    <lastmod>2024-06-04T11:23:15+09:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
-    <lastmod>2024-03-13T09:30:00+09:00</lastmod>
+    <lastmod>2024-06-04T11:23:15+09:00</lastmod>
   </url><url>
     <loc>/tags/embedding/</loc>
-    <lastmod>2024-03-13T09:30:00+09:00</lastmod>
+    <lastmod>2024-06-04T11:23:15+09:00</lastmod>
+  </url><url>
+    <loc>/authors/hidetoshi-shimodaira/</loc>
+    <lastmod>2024-06-04T11:23:15+09:00</lastmod>
+  </url><url>
+    <loc>/authors/hiroaki-yamagiwa/</loc>
+    <lastmod>2024-06-04T11:23:15+09:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2024-03-13T09:30:00+09:00</lastmod>
+    <lastmod>2024-06-04T11:23:15+09:00</lastmod>
+  </url><url>
+    <loc>/authors/ken-murakami/</loc>
+    <lastmod>2024-06-04T11:23:15+09:00</lastmod>
+  </url><url>
+    <loc>/authors/kiwamu-arakane/</loc>
+    <lastmod>2024-06-04T11:23:15+09:00</lastmod>
+  </url><url>
+    <loc>/authors/mariko-okada/</loc>
+    <lastmod>2024-06-04T11:23:15+09:00</lastmod>
+  </url><url>
+    <loc>/authors/momose-oyama/</loc>
+    <lastmod>2024-06-04T11:23:15+09:00</lastmod>
+  </url><url>
+    <loc>/publication/drug_gene_analogy/</loc>
+    <lastmod>2024-06-04T11:23:15+09:00</lastmod>
+  </url><url>
+    <loc>/categories/preprint/</loc>
+    <lastmod>2024-06-04T11:23:15+09:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2024-06-04T11:23:15+09:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2024-06-04T11:23:15+09:00</lastmod>
+  </url><url>
+    <loc>/authors/ryoma-hashimoto/</loc>
+    <lastmod>2024-06-04T11:23:15+09:00</lastmod>
+  </url><url>
+    <loc>/authors/shou-soeda/</loc>
+    <lastmod>2024-06-04T11:23:15+09:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-06-04T11:23:15+09:00</lastmod>
   </url><url>
     <loc>/tags/ica/</loc>
     <lastmod>2024-03-13T09:30:00+09:00</lastmod>
@@ -27,9 +69,6 @@
     <lastmod>2024-03-13T09:30:00+09:00</lastmod>
   </url><url>
     <loc>/talk/</loc>
-    <lastmod>2024-03-13T09:30:00+09:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2024-03-13T09:30:00+09:00</lastmod>
   </url><url>
     <loc>/authors/%E4%B8%8B%E5%B9%B3-%E8%8B%B1%E5%AF%BF/</loc>
@@ -56,25 +95,7 @@
     <loc>/talk/ict18/</loc>
     <lastmod>2024-02-21T14:00:00+09:00</lastmod>
   </url><url>
-    <loc>/publication_types/0/</loc>
-    <lastmod>2024-01-12T04:35:40+09:00</lastmod>
-  </url><url>
     <loc>/publication/axis_tour/</loc>
-    <lastmod>2024-01-12T04:35:40+09:00</lastmod>
-  </url><url>
-    <loc>/authors/hidetoshi-shimodaira/</loc>
-    <lastmod>2024-01-12T04:35:40+09:00</lastmod>
-  </url><url>
-    <loc>/authors/hiroaki-yamagiwa/</loc>
-    <lastmod>2024-01-12T04:35:40+09:00</lastmod>
-  </url><url>
-    <loc>/categories/preprint/</loc>
-    <lastmod>2024-01-12T04:35:40+09:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2024-01-12T04:35:40+09:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
     <lastmod>2024-01-12T04:35:40+09:00</lastmod>
   </url><url>
     <loc>/authors/yusuke-takase/</loc>
@@ -114,9 +135,6 @@
     <lastmod>2023-12-06T00:00:01+09:00</lastmod>
   </url><url>
     <loc>/categories/emnlp2023/</loc>
-    <lastmod>2023-12-06T00:00:01+09:00</lastmod>
-  </url><url>
-    <loc>/authors/momose-oyama/</loc>
     <lastmod>2023-12-06T00:00:01+09:00</lastmod>
   </url><url>
     <loc>/categories/findings/</loc>

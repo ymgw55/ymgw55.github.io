@@ -5,7 +5,7 @@
     <link>/authors/kiwamu-arakane/</link>
       <atom:link href="/authors/kiwamu-arakane/index.xml" rel="self" type="application/rss+xml" />
     <description>Kiwamu Arakane</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 30 Jun 2023 14:20:00 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jun 2024 11:23:15 +0900</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Kiwamu Arakane</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>生物学的パスウェイを用いたBioConceptVecにおけるアナロジータスク</title>
-      <link>/talk/ibisml50/</link>
-      <pubDate>Fri, 30 Jun 2023 14:20:00 +0900</pubDate>
-      <guid>/talk/ibisml50/</guid>
+      <title>Predicting Drug-Gene Relations via Analogy Tasks with Word Embeddings</title>
+      <link>/publication/drug_gene_analogy/</link>
+      <pubDate>Tue, 04 Jun 2024 11:23:15 +0900</pubDate>
+      <guid>/publication/drug_gene_analogy/</guid>
       <description></description>
     </item>
     
