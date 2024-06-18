@@ -5,7 +5,7 @@
     <link>/categories/</link>
       <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jun 2024 11:23:15 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Jun 2024 12:46:24 +0900</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Categories</title>
@@ -15,16 +15,16 @@
     <item>
       <title>2024</title>
       <link>/categories/2024/</link>
-      <pubDate>Tue, 04 Jun 2024 11:23:15 +0900</pubDate>
+      <pubDate>Tue, 18 Jun 2024 12:46:24 +0900</pubDate>
       <guid>/categories/2024/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>preprint</title>
-      <link>/categories/preprint/</link>
-      <pubDate>Tue, 04 Jun 2024 11:23:15 +0900</pubDate>
-      <guid>/categories/preprint/</guid>
+      <title>preprints</title>
+      <link>/categories/preprints/</link>
+      <pubDate>Tue, 18 Jun 2024 12:46:24 +0900</pubDate>
+      <guid>/categories/preprints/</guid>
       <description></description>
     </item>
     

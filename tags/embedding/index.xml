@@ -5,12 +5,20 @@
     <link>/tags/embedding/</link>
       <atom:link href="/tags/embedding/index.xml" rel="self" type="application/rss+xml" />
     <description>Embedding</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jun 2024 11:23:15 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Jun 2024 12:46:24 +0900</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Embedding</title>
       <link>/tags/embedding/</link>
     </image>
+    
+    <item>
+      <title>Revisiting Cosine Similarity via Normalized ICA-transformed Embeddings</title>
+      <link>/publication/cosine_ica/</link>
+      <pubDate>Tue, 18 Jun 2024 12:46:24 +0900</pubDate>
+      <guid>/publication/cosine_ica/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Predicting Drug-Gene Relations via Analogy Tasks with Word Embeddings</title>

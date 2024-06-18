@@ -5,12 +5,20 @@
     <link>/tags/ica/</link>
       <atom:link href="/tags/ica/index.xml" rel="self" type="application/rss+xml" />
     <description>ICA</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 Mar 2024 09:30:00 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Jun 2024 12:46:24 +0900</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>ICA</title>
       <link>/tags/ica/</link>
     </image>
+    
+    <item>
+      <title>Revisiting Cosine Similarity via Normalized ICA-transformed Embeddings</title>
+      <link>/publication/cosine_ica/</link>
+      <pubDate>Tue, 18 Jun 2024 12:46:24 +0900</pubDate>
+      <guid>/publication/cosine_ica/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>依存関係の大きさは意味の関連性を表す</title>

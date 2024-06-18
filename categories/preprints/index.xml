@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>preprints | Hiroaki Yamagiwa</title>
+    <link>/categories/preprints/</link>
+      <atom:link href="/categories/preprints/index.xml" rel="self" type="application/rss+xml" />
+    <description>preprints</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Jun 2024 12:46:24 +0900</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>preprints</title>
+      <link>/categories/preprints/</link>
+    </image>
+    
+    <item>
+      <title>Revisiting Cosine Similarity via Normalized ICA-transformed Embeddings</title>
+      <link>/publication/cosine_ica/</link>
+      <pubDate>Tue, 18 Jun 2024 12:46:24 +0900</pubDate>
+      <guid>/publication/cosine_ica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Drug-Gene Relations via Analogy Tasks with Word Embeddings</title>
+      <link>/publication/drug_gene_analogy/</link>
+      <pubDate>Tue, 04 Jun 2024 11:23:15 +0900</pubDate>
+      <guid>/publication/drug_gene_analogy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Axis Tour: Word Tour Determines the Order of Axes in ICA-transformed Embeddings</title>
+      <link>/publication/axis_tour/</link>
+      <pubDate>Fri, 12 Jan 2024 04:35:40 +0900</pubDate>
+      <guid>/publication/axis_tour/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
