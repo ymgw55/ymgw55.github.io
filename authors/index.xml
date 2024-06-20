@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Jun 2024 12:46:24 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jun 2024 20:24:22 +0900</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Hidetoshi Shimodaira</title>
       <link>/authors/hidetoshi-shimodaira/</link>
-      <pubDate>Tue, 18 Jun 2024 12:46:24 +0900</pubDate>
+      <pubDate>Thu, 20 Jun 2024 20:24:22 +0900</pubDate>
       <guid>/authors/hidetoshi-shimodaira/</guid>
       <description></description>
     </item>
@@ -23,8 +23,16 @@
     <item>
       <title>Hiroaki Yamagiwa</title>
       <link>/authors/hiroaki-yamagiwa/</link>
-      <pubDate>Tue, 18 Jun 2024 12:46:24 +0900</pubDate>
+      <pubDate>Thu, 20 Jun 2024 20:24:22 +0900</pubDate>
       <guid>/authors/hiroaki-yamagiwa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yunzhen He*</title>
+      <link>/authors/yunzhen-he/</link>
+      <pubDate>Thu, 20 Jun 2024 20:24:22 +0900</pubDate>
+      <guid>/authors/yunzhen-he/</guid>
       <description></description>
     </item>
     
