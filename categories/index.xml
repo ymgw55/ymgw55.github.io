@@ -5,7 +5,7 @@
     <link>/categories/</link>
       <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Jun 2024 12:46:24 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 03 Sep 2024 15:50:00 +0900</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Categories</title>
@@ -15,8 +15,24 @@
     <item>
       <title>2024</title>
       <link>/categories/2024/</link>
-      <pubDate>Tue, 18 Jun 2024 12:46:24 +0900</pubDate>
+      <pubDate>Tue, 03 Sep 2024 15:50:00 +0900</pubDate>
       <guid>/categories/2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JFSSA</title>
+      <link>/categories/jfssa/</link>
+      <pubDate>Tue, 03 Sep 2024 15:50:00 +0900</pubDate>
+      <guid>/categories/jfssa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JFSSA2024</title>
+      <link>/categories/jfssa2024/</link>
+      <pubDate>Tue, 03 Sep 2024 15:50:00 +0900</pubDate>
+      <guid>/categories/jfssa2024/</guid>
       <description></description>
     </item>
     
@@ -161,14 +177,6 @@
       <link>/categories/2022/</link>
       <pubDate>Sun, 04 Sep 2022 14:40:00 +0900</pubDate>
       <guid>/categories/2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JFSSA</title>
-      <link>/categories/jfssa/</link>
-      <pubDate>Sun, 04 Sep 2022 14:40:00 +0900</pubDate>
-      <guid>/categories/jfssa/</guid>
       <description></description>
     </item>
     

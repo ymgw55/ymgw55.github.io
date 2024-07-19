@@ -5,12 +5,36 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jun 2024 20:24:22 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 03 Sep 2024 15:50:00 +0900</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>下平 英寿</title>
+      <link>/authors/%E4%B8%8B%E5%B9%B3-%E8%8B%B1%E5%AF%BF/</link>
+      <pubDate>Tue, 03 Sep 2024 15:50:00 +0900</pubDate>
+      <guid>/authors/%E4%B8%8B%E5%B9%B3-%E8%8B%B1%E5%AF%BF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>大山 百々勢*</title>
+      <link>/authors/%E5%A4%A7%E5%B1%B1-%E7%99%BE%E3%80%85%E5%8B%A2/</link>
+      <pubDate>Tue, 03 Sep 2024 15:50:00 +0900</pubDate>
+      <guid>/authors/%E5%A4%A7%E5%B1%B1-%E7%99%BE%E3%80%85%E5%8B%A2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>山際 宏明</title>
+      <link>/authors/%E5%B1%B1%E9%9A%9B-%E5%AE%8F%E6%98%8E/</link>
+      <pubDate>Tue, 03 Sep 2024 15:50:00 +0900</pubDate>
+      <guid>/authors/%E5%B1%B1%E9%9A%9B-%E5%AE%8F%E6%98%8E/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hidetoshi Shimodaira</title>
@@ -81,30 +105,6 @@
       <link>/authors/shou-soeda/</link>
       <pubDate>Tue, 04 Jun 2024 11:23:15 +0900</pubDate>
       <guid>/authors/shou-soeda/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>下平 英寿</title>
-      <link>/authors/%E4%B8%8B%E5%B9%B3-%E8%8B%B1%E5%AF%BF/</link>
-      <pubDate>Wed, 13 Mar 2024 09:30:00 +0900</pubDate>
-      <guid>/authors/%E4%B8%8B%E5%B9%B3-%E8%8B%B1%E5%AF%BF/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>大山 百々勢*</title>
-      <link>/authors/%E5%A4%A7%E5%B1%B1-%E7%99%BE%E3%80%85%E5%8B%A2/</link>
-      <pubDate>Wed, 13 Mar 2024 09:30:00 +0900</pubDate>
-      <guid>/authors/%E5%A4%A7%E5%B1%B1-%E7%99%BE%E3%80%85%E5%8B%A2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>山際 宏明</title>
-      <link>/authors/%E5%B1%B1%E9%9A%9B-%E5%AE%8F%E6%98%8E/</link>
-      <pubDate>Wed, 13 Mar 2024 09:30:00 +0900</pubDate>
-      <guid>/authors/%E5%B1%B1%E9%9A%9B-%E5%AE%8F%E6%98%8E/</guid>
       <description></description>
     </item>
     

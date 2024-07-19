@@ -5,12 +5,20 @@
     <link>/authors/%E5%A4%A7%E5%B1%B1-%E7%99%BE%E3%80%85%E5%8B%A2/</link>
       <atom:link href="/authors/%E5%A4%A7%E5%B1%B1-%E7%99%BE%E3%80%85%E5%8B%A2/index.xml" rel="self" type="application/rss+xml" />
     <description>大山 百々勢*</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 Mar 2024 09:30:00 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 03 Sep 2024 15:50:00 +0900</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>大山 百々勢*</title>
       <link>/authors/%E5%A4%A7%E5%B1%B1-%E7%99%BE%E3%80%85%E5%8B%A2/</link>
     </image>
+    
+    <item>
+      <title>独立成分分析を用いた埋め込みの分布の普遍的な形状の発見と成分間に残る高次相関の解釈</title>
+      <link>/talk/jfssa2024/</link>
+      <pubDate>Tue, 03 Sep 2024 15:50:00 +0900</pubDate>
+      <guid>/talk/jfssa2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>依存関係の大きさは意味の関連性を表す</title>
